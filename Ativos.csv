@@ -1,0 +1,1001 @@
+ID_Ativo,Nome_Ativo,Tipo,Responsável,Localização,Status,Data_Última_Atualização
+ATV00001,Equipamento_1,Desktop,João,São Paulo,Manutenção,2025-01-12
+ATV00002,Equipamento_2,Servidor,Fernanda,São Paulo,Ativo,2025-01-03
+ATV00003,Equipamento_3,Notebook,Marina,Recife,Ativo,2025-04-25
+ATV00004,Equipamento_4,Desktop,João,Recife,Inativo,2024-11-30
+ATV00005,Equipamento_5,Impressora,Lucas,Rio de Janeiro,Ativo,2025-03-07
+ATV00006,Equipamento_6,Desktop,Carlos,São Paulo,Manutenção,2025-04-07
+ATV00007,Equipamento_7,Servidor,Marina,Recife,Inativo,2025-03-13
+ATV00008,Equipamento_8,Notebook,Lucas,Curitiba,Manutenção,2025-04-19
+ATV00009,Equipamento_9,Impressora,Carlos,Curitiba,Ativo,2025-04-21
+ATV00010,Equipamento_10,Desktop,João,São Paulo,Inativo,2024-12-31
+ATV00011,Equipamento_11,Servidor,Marina,São Paulo,Inativo,2025-01-25
+ATV00012,Equipamento_12,Impressora,Lucas,Rio de Janeiro,Manutenção,2024-12-03
+ATV00013,Equipamento_13,Notebook,João,Curitiba,Ativo,2025-03-21
+ATV00014,Equipamento_14,Desktop,Lucas,Curitiba,Manutenção,2025-03-27
+ATV00015,Equipamento_15,Desktop,João,São Paulo,Ativo,2025-02-01
+ATV00016,Equipamento_16,Notebook,Fernanda,Rio de Janeiro,Ativo,2025-01-06
+ATV00017,Equipamento_17,Notebook,Carlos,São Paulo,Manutenção,2024-12-30
+ATV00018,Equipamento_18,Servidor,Fernanda,Recife,Manutenção,2024-12-14
+ATV00019,Equipamento_19,Desktop,Marina,São Paulo,Ativo,2024-12-05
+ATV00020,Equipamento_20,Desktop,Fernanda,Rio de Janeiro,Inativo,2025-03-15
+ATV00021,Equipamento_21,Servidor,Marina,Recife,Inativo,2025-03-17
+ATV00022,Equipamento_22,Impressora,Carlos,Curitiba,Inativo,2025-01-18
+ATV00023,Equipamento_23,Desktop,Fernanda,Recife,Inativo,2025-02-27
+ATV00024,Equipamento_24,Desktop,Fernanda,Recife,Manutenção,2024-12-07
+ATV00025,Equipamento_25,Desktop,Carlos,São Paulo,Ativo,2024-12-14
+ATV00026,Equipamento_26,Notebook,Marina,Recife,Inativo,2025-05-20
+ATV00027,Equipamento_27,Servidor,Carlos,Recife,Manutenção,2025-05-21
+ATV00028,Equipamento_28,Servidor,Carlos,São Paulo,Manutenção,2025-05-21
+ATV00029,Equipamento_29,Notebook,Fernanda,Recife,Inativo,2025-02-20
+ATV00030,Equipamento_30,Desktop,Carlos,Curitiba,Ativo,2025-02-20
+ATV00031,Equipamento_31,Desktop,Lucas,Curitiba,Manutenção,2025-01-02
+ATV00032,Equipamento_32,Servidor,Marina,Recife,Ativo,2024-12-31
+ATV00033,Equipamento_33,Impressora,Marina,Rio de Janeiro,Inativo,2025-02-20
+ATV00034,Equipamento_34,Desktop,Carlos,Rio de Janeiro,Ativo,2025-01-02
+ATV00035,Equipamento_35,Impressora,Fernanda,Recife,Inativo,2025-05-18
+ATV00036,Equipamento_36,Notebook,Fernanda,São Paulo,Ativo,2025-03-09
+ATV00037,Equipamento_37,Notebook,Fernanda,Curitiba,Ativo,2024-12-21
+ATV00038,Equipamento_38,Servidor,Fernanda,Curitiba,Ativo,2024-11-24
+ATV00039,Equipamento_39,Notebook,João,Rio de Janeiro,Inativo,2025-03-07
+ATV00040,Equipamento_40,Impressora,Carlos,Rio de Janeiro,Manutenção,2025-02-06
+ATV00041,Equipamento_41,Desktop,Marina,São Paulo,Inativo,2024-12-31
+ATV00042,Equipamento_42,Desktop,Carlos,Rio de Janeiro,Manutenção,2025-04-06
+ATV00043,Equipamento_43,Servidor,Marina,Rio de Janeiro,Manutenção,2025-02-15
+ATV00044,Equipamento_44,Desktop,Fernanda,Recife,Ativo,2024-11-25
+ATV00045,Equipamento_45,Servidor,Carlos,Rio de Janeiro,Manutenção,2025-04-02
+ATV00046,Equipamento_46,Notebook,João,Recife,Inativo,2024-12-05
+ATV00047,Equipamento_47,Servidor,Marina,Rio de Janeiro,Manutenção,2024-12-12
+ATV00048,Equipamento_48,Servidor,Fernanda,Curitiba,Ativo,2025-01-16
+ATV00049,Equipamento_49,Servidor,Lucas,São Paulo,Inativo,2024-12-27
+ATV00050,Equipamento_50,Servidor,Fernanda,Recife,Manutenção,2025-05-20
+ATV00051,Equipamento_51,Servidor,João,Curitiba,Manutenção,2024-12-31
+ATV00052,Equipamento_52,Notebook,Lucas,Rio de Janeiro,Inativo,2025-03-14
+ATV00053,Equipamento_53,Notebook,João,Recife,Ativo,2025-03-13
+ATV00054,Equipamento_54,Impressora,João,Rio de Janeiro,Manutenção,2024-12-16
+ATV00055,Equipamento_55,Servidor,João,Recife,Manutenção,2025-03-31
+ATV00056,Equipamento_56,Notebook,João,Rio de Janeiro,Manutenção,2025-02-22
+ATV00057,Equipamento_57,Servidor,Marina,São Paulo,Manutenção,2025-01-22
+ATV00058,Equipamento_58,Servidor,Fernanda,Recife,Manutenção,2024-12-31
+ATV00059,Equipamento_59,Impressora,João,São Paulo,Inativo,2024-12-01
+ATV00060,Equipamento_60,Notebook,Lucas,São Paulo,Manutenção,2025-05-10
+ATV00061,Equipamento_61,Servidor,Fernanda,São Paulo,Ativo,2024-12-28
+ATV00062,Equipamento_62,Impressora,João,São Paulo,Inativo,2025-05-14
+ATV00063,Equipamento_63,Notebook,Lucas,Recife,Inativo,2025-01-31
+ATV00064,Equipamento_64,Notebook,Fernanda,Curitiba,Manutenção,2025-03-06
+ATV00065,Equipamento_65,Notebook,João,Recife,Manutenção,2024-12-09
+ATV00066,Equipamento_66,Desktop,Fernanda,Curitiba,Inativo,2024-11-23
+ATV00067,Equipamento_67,Impressora,Marina,Rio de Janeiro,Manutenção,2025-02-28
+ATV00068,Equipamento_68,Notebook,João,Rio de Janeiro,Inativo,2025-01-29
+ATV00069,Equipamento_69,Impressora,Fernanda,Rio de Janeiro,Ativo,2025-05-03
+ATV00070,Equipamento_70,Servidor,Carlos,São Paulo,Inativo,2025-02-09
+ATV00071,Equipamento_71,Notebook,Fernanda,Curitiba,Inativo,2025-02-14
+ATV00072,Equipamento_72,Servidor,Carlos,Recife,Inativo,2024-12-06
+ATV00073,Equipamento_73,Impressora,Lucas,Recife,Ativo,2025-04-30
+ATV00074,Equipamento_74,Notebook,Lucas,Rio de Janeiro,Ativo,2025-02-08
+ATV00075,Equipamento_75,Servidor,João,Curitiba,Ativo,2025-02-09
+ATV00076,Equipamento_76,Servidor,Carlos,Rio de Janeiro,Inativo,2025-01-06
+ATV00077,Equipamento_77,Servidor,João,Recife,Manutenção,2025-05-12
+ATV00078,Equipamento_78,Servidor,Lucas,Curitiba,Manutenção,2025-03-09
+ATV00079,Equipamento_79,Desktop,João,Curitiba,Inativo,2025-05-10
+ATV00080,Equipamento_80,Desktop,Carlos,Recife,Ativo,2025-03-09
+ATV00081,Equipamento_81,Notebook,Lucas,Recife,Ativo,2025-05-16
+ATV00082,Equipamento_82,Notebook,Marina,Rio de Janeiro,Ativo,2025-03-31
+ATV00083,Equipamento_83,Servidor,João,Recife,Inativo,2025-01-08
+ATV00084,Equipamento_84,Servidor,Marina,São Paulo,Manutenção,2025-01-11
+ATV00085,Equipamento_85,Impressora,Carlos,Curitiba,Inativo,2024-12-18
+ATV00086,Equipamento_86,Servidor,Fernanda,Curitiba,Ativo,2025-02-16
+ATV00087,Equipamento_87,Desktop,Carlos,Recife,Manutenção,2025-04-12
+ATV00088,Equipamento_88,Desktop,Marina,Rio de Janeiro,Inativo,2025-01-19
+ATV00089,Equipamento_89,Servidor,Lucas,Rio de Janeiro,Inativo,2025-05-02
+ATV00090,Equipamento_90,Notebook,Lucas,Rio de Janeiro,Inativo,2025-01-18
+ATV00091,Equipamento_91,Servidor,Fernanda,Rio de Janeiro,Manutenção,2025-04-24
+ATV00092,Equipamento_92,Servidor,Fernanda,Rio de Janeiro,Inativo,2025-04-07
+ATV00093,Equipamento_93,Servidor,Carlos,Rio de Janeiro,Inativo,2025-04-19
+ATV00094,Equipamento_94,Desktop,João,Rio de Janeiro,Ativo,2025-05-05
+ATV00095,Equipamento_95,Impressora,Carlos,Curitiba,Manutenção,2025-04-08
+ATV00096,Equipamento_96,Servidor,Fernanda,Rio de Janeiro,Manutenção,2025-03-10
+ATV00097,Equipamento_97,Servidor,Marina,Curitiba,Inativo,2025-02-06
+ATV00098,Equipamento_98,Servidor,Marina,Recife,Manutenção,2025-04-30
+ATV00099,Equipamento_99,Impressora,Fernanda,São Paulo,Inativo,2025-04-07
+ATV00100,Equipamento_100,Notebook,Lucas,Rio de Janeiro,Manutenção,2024-12-05
+ATV00101,Equipamento_101,Impressora,Carlos,Recife,Inativo,2025-01-09
+ATV00102,Equipamento_102,Impressora,Carlos,Curitiba,Manutenção,2025-03-02
+ATV00103,Equipamento_103,Servidor,Carlos,Recife,Manutenção,2024-12-29
+ATV00104,Equipamento_104,Notebook,Carlos,Rio de Janeiro,Manutenção,2024-12-02
+ATV00105,Equipamento_105,Desktop,Carlos,São Paulo,Ativo,2025-01-11
+ATV00106,Equipamento_106,Servidor,Carlos,São Paulo,Ativo,2025-01-04
+ATV00107,Equipamento_107,Servidor,Carlos,Curitiba,Inativo,2025-04-04
+ATV00108,Equipamento_108,Impressora,Fernanda,Rio de Janeiro,Ativo,2024-12-13
+ATV00109,Equipamento_109,Notebook,Lucas,Rio de Janeiro,Manutenção,2024-12-04
+ATV00110,Equipamento_110,Impressora,Marina,São Paulo,Manutenção,2025-01-16
+ATV00111,Equipamento_111,Servidor,Marina,Recife,Inativo,2025-04-10
+ATV00112,Equipamento_112,Desktop,Carlos,Recife,Ativo,2025-02-18
+ATV00113,Equipamento_113,Desktop,Marina,Rio de Janeiro,Inativo,2025-03-03
+ATV00114,Equipamento_114,Notebook,Carlos,Recife,Ativo,2024-12-21
+ATV00115,Equipamento_115,Desktop,Lucas,Curitiba,Inativo,2025-01-01
+ATV00116,Equipamento_116,Notebook,Lucas,São Paulo,Manutenção,2025-02-08
+ATV00117,Equipamento_117,Impressora,Marina,Recife,Inativo,2024-12-01
+ATV00118,Equipamento_118,Impressora,Fernanda,São Paulo,Manutenção,2025-01-20
+ATV00119,Equipamento_119,Notebook,João,Recife,Manutenção,2025-02-13
+ATV00120,Equipamento_120,Notebook,Lucas,Recife,Inativo,2024-11-27
+ATV00121,Equipamento_121,Desktop,João,Rio de Janeiro,Ativo,2025-04-15
+ATV00122,Equipamento_122,Servidor,Lucas,Recife,Manutenção,2025-01-18
+ATV00123,Equipamento_123,Desktop,Marina,Recife,Manutenção,2025-03-13
+ATV00124,Equipamento_124,Desktop,Carlos,Rio de Janeiro,Manutenção,2025-03-08
+ATV00125,Equipamento_125,Impressora,Marina,Recife,Manutenção,2025-01-13
+ATV00126,Equipamento_126,Servidor,Carlos,Curitiba,Ativo,2024-12-05
+ATV00127,Equipamento_127,Notebook,Marina,Recife,Ativo,2025-05-13
+ATV00128,Equipamento_128,Impressora,Lucas,Rio de Janeiro,Inativo,2024-12-16
+ATV00129,Equipamento_129,Servidor,João,Recife,Ativo,2025-01-18
+ATV00130,Equipamento_130,Notebook,Carlos,Curitiba,Inativo,2025-01-03
+ATV00131,Equipamento_131,Impressora,Lucas,Recife,Inativo,2025-03-29
+ATV00132,Equipamento_132,Impressora,Carlos,Recife,Ativo,2025-04-03
+ATV00133,Equipamento_133,Servidor,Fernanda,São Paulo,Ativo,2024-12-12
+ATV00134,Equipamento_134,Desktop,Carlos,Recife,Ativo,2025-04-29
+ATV00135,Equipamento_135,Desktop,João,Rio de Janeiro,Ativo,2025-01-10
+ATV00136,Equipamento_136,Servidor,Carlos,Curitiba,Inativo,2024-12-15
+ATV00137,Equipamento_137,Servidor,Lucas,Curitiba,Ativo,2025-02-16
+ATV00138,Equipamento_138,Impressora,Carlos,São Paulo,Ativo,2025-02-03
+ATV00139,Equipamento_139,Notebook,João,Recife,Manutenção,2025-05-20
+ATV00140,Equipamento_140,Servidor,Fernanda,Recife,Ativo,2025-04-19
+ATV00141,Equipamento_141,Servidor,Fernanda,São Paulo,Ativo,2025-02-09
+ATV00142,Equipamento_142,Notebook,Marina,Rio de Janeiro,Manutenção,2025-03-20
+ATV00143,Equipamento_143,Desktop,João,Rio de Janeiro,Inativo,2025-03-27
+ATV00144,Equipamento_144,Impressora,Fernanda,Rio de Janeiro,Ativo,2025-02-13
+ATV00145,Equipamento_145,Impressora,Fernanda,Recife,Manutenção,2025-02-26
+ATV00146,Equipamento_146,Impressora,Carlos,Rio de Janeiro,Inativo,2025-05-06
+ATV00147,Equipamento_147,Notebook,Carlos,Rio de Janeiro,Ativo,2024-12-30
+ATV00148,Equipamento_148,Servidor,Fernanda,Recife,Manutenção,2025-04-19
+ATV00149,Equipamento_149,Desktop,Fernanda,Recife,Inativo,2025-01-06
+ATV00150,Equipamento_150,Desktop,João,Rio de Janeiro,Inativo,2025-02-10
+ATV00151,Equipamento_151,Notebook,Fernanda,Recife,Manutenção,2025-01-19
+ATV00152,Equipamento_152,Desktop,Fernanda,São Paulo,Inativo,2025-02-06
+ATV00153,Equipamento_153,Impressora,Lucas,São Paulo,Manutenção,2025-03-05
+ATV00154,Equipamento_154,Notebook,João,Curitiba,Ativo,2025-04-27
+ATV00155,Equipamento_155,Notebook,Marina,Curitiba,Inativo,2025-05-01
+ATV00156,Equipamento_156,Desktop,João,Rio de Janeiro,Inativo,2025-01-07
+ATV00157,Equipamento_157,Impressora,Carlos,Curitiba,Manutenção,2025-05-12
+ATV00158,Equipamento_158,Desktop,Lucas,Curitiba,Ativo,2025-02-15
+ATV00159,Equipamento_159,Notebook,Carlos,Curitiba,Inativo,2025-04-20
+ATV00160,Equipamento_160,Desktop,Fernanda,São Paulo,Ativo,2025-03-17
+ATV00161,Equipamento_161,Desktop,Marina,São Paulo,Manutenção,2025-01-29
+ATV00162,Equipamento_162,Desktop,Marina,São Paulo,Manutenção,2024-12-31
+ATV00163,Equipamento_163,Desktop,Carlos,São Paulo,Inativo,2025-03-01
+ATV00164,Equipamento_164,Impressora,Carlos,Rio de Janeiro,Inativo,2025-01-01
+ATV00165,Equipamento_165,Notebook,Marina,São Paulo,Ativo,2024-12-18
+ATV00166,Equipamento_166,Servidor,Carlos,Rio de Janeiro,Inativo,2024-12-16
+ATV00167,Equipamento_167,Desktop,Carlos,São Paulo,Inativo,2024-12-01
+ATV00168,Equipamento_168,Desktop,Marina,São Paulo,Inativo,2025-01-16
+ATV00169,Equipamento_169,Desktop,Fernanda,Rio de Janeiro,Ativo,2024-12-06
+ATV00170,Equipamento_170,Servidor,João,Curitiba,Ativo,2024-12-10
+ATV00171,Equipamento_171,Notebook,Marina,São Paulo,Manutenção,2025-03-04
+ATV00172,Equipamento_172,Servidor,João,São Paulo,Manutenção,2025-04-30
+ATV00173,Equipamento_173,Impressora,João,Rio de Janeiro,Ativo,2025-02-12
+ATV00174,Equipamento_174,Impressora,Carlos,São Paulo,Ativo,2025-02-21
+ATV00175,Equipamento_175,Desktop,Marina,São Paulo,Inativo,2024-12-23
+ATV00176,Equipamento_176,Notebook,Fernanda,São Paulo,Ativo,2025-02-06
+ATV00177,Equipamento_177,Desktop,Fernanda,Curitiba,Ativo,2025-01-16
+ATV00178,Equipamento_178,Servidor,Fernanda,Recife,Manutenção,2024-11-25
+ATV00179,Equipamento_179,Desktop,Carlos,Rio de Janeiro,Inativo,2025-02-13
+ATV00180,Equipamento_180,Notebook,João,São Paulo,Ativo,2025-02-27
+ATV00181,Equipamento_181,Servidor,Lucas,Recife,Manutenção,2025-01-06
+ATV00182,Equipamento_182,Servidor,Fernanda,Rio de Janeiro,Ativo,2025-03-26
+ATV00183,Equipamento_183,Notebook,Lucas,Curitiba,Inativo,2025-03-02
+ATV00184,Equipamento_184,Servidor,Carlos,Recife,Inativo,2025-05-22
+ATV00185,Equipamento_185,Desktop,Marina,Recife,Manutenção,2025-03-19
+ATV00186,Equipamento_186,Servidor,Carlos,Recife,Manutenção,2025-03-02
+ATV00187,Equipamento_187,Servidor,Marina,Rio de Janeiro,Ativo,2025-05-16
+ATV00188,Equipamento_188,Impressora,Fernanda,São Paulo,Inativo,2024-11-29
+ATV00189,Equipamento_189,Impressora,Carlos,São Paulo,Inativo,2025-03-31
+ATV00190,Equipamento_190,Notebook,João,Curitiba,Manutenção,2025-05-14
+ATV00191,Equipamento_191,Impressora,João,Rio de Janeiro,Inativo,2025-03-19
+ATV00192,Equipamento_192,Servidor,Marina,São Paulo,Ativo,2025-05-02
+ATV00193,Equipamento_193,Notebook,Marina,São Paulo,Ativo,2025-01-05
+ATV00194,Equipamento_194,Desktop,João,São Paulo,Ativo,2025-02-12
+ATV00195,Equipamento_195,Impressora,Lucas,São Paulo,Inativo,2025-01-14
+ATV00196,Equipamento_196,Notebook,Carlos,Curitiba,Inativo,2024-12-27
+ATV00197,Equipamento_197,Impressora,Fernanda,Curitiba,Inativo,2025-04-05
+ATV00198,Equipamento_198,Notebook,Fernanda,Rio de Janeiro,Manutenção,2025-03-16
+ATV00199,Equipamento_199,Servidor,João,Recife,Ativo,2025-04-04
+ATV00200,Equipamento_200,Notebook,Carlos,Rio de Janeiro,Manutenção,2025-02-09
+ATV00201,Equipamento_201,Desktop,Marina,Curitiba,Inativo,2025-03-18
+ATV00202,Equipamento_202,Servidor,Fernanda,São Paulo,Ativo,2025-03-09
+ATV00203,Equipamento_203,Notebook,Lucas,Curitiba,Manutenção,2024-11-30
+ATV00204,Equipamento_204,Notebook,Fernanda,Recife,Ativo,2025-05-01
+ATV00205,Equipamento_205,Notebook,Fernanda,Curitiba,Ativo,2025-05-21
+ATV00206,Equipamento_206,Impressora,Marina,Rio de Janeiro,Ativo,2025-03-31
+ATV00207,Equipamento_207,Desktop,João,Rio de Janeiro,Inativo,2024-11-30
+ATV00208,Equipamento_208,Desktop,Fernanda,Recife,Ativo,2025-01-19
+ATV00209,Equipamento_209,Impressora,Marina,Curitiba,Ativo,2024-12-14
+ATV00210,Equipamento_210,Notebook,João,Recife,Inativo,2025-05-20
+ATV00211,Equipamento_211,Servidor,Lucas,São Paulo,Manutenção,2024-12-05
+ATV00212,Equipamento_212,Desktop,João,Rio de Janeiro,Manutenção,2025-04-24
+ATV00213,Equipamento_213,Servidor,Carlos,São Paulo,Inativo,2025-04-28
+ATV00214,Equipamento_214,Desktop,Marina,Recife,Inativo,2025-02-19
+ATV00215,Equipamento_215,Impressora,Carlos,Curitiba,Manutenção,2025-01-12
+ATV00216,Equipamento_216,Servidor,Carlos,Recife,Inativo,2025-01-11
+ATV00217,Equipamento_217,Servidor,Marina,Curitiba,Manutenção,2025-01-07
+ATV00218,Equipamento_218,Servidor,Lucas,Rio de Janeiro,Ativo,2025-01-25
+ATV00219,Equipamento_219,Notebook,Lucas,Recife,Manutenção,2025-02-10
+ATV00220,Equipamento_220,Notebook,Carlos,Rio de Janeiro,Inativo,2024-12-12
+ATV00221,Equipamento_221,Desktop,Lucas,Recife,Inativo,2025-03-01
+ATV00222,Equipamento_222,Desktop,Lucas,Rio de Janeiro,Manutenção,2025-03-20
+ATV00223,Equipamento_223,Impressora,Lucas,Recife,Manutenção,2025-03-02
+ATV00224,Equipamento_224,Servidor,Lucas,Curitiba,Inativo,2024-12-04
+ATV00225,Equipamento_225,Servidor,Lucas,Recife,Ativo,2025-03-09
+ATV00226,Equipamento_226,Servidor,João,Rio de Janeiro,Inativo,2025-02-08
+ATV00227,Equipamento_227,Desktop,Lucas,Recife,Ativo,2024-12-15
+ATV00228,Equipamento_228,Desktop,Carlos,Curitiba,Ativo,2025-02-27
+ATV00229,Equipamento_229,Impressora,Lucas,Recife,Ativo,2025-04-13
+ATV00230,Equipamento_230,Servidor,Carlos,Rio de Janeiro,Manutenção,2025-03-19
+ATV00231,Equipamento_231,Servidor,Fernanda,Rio de Janeiro,Ativo,2025-01-04
+ATV00232,Equipamento_232,Servidor,Marina,Rio de Janeiro,Inativo,2025-02-13
+ATV00233,Equipamento_233,Desktop,Marina,Curitiba,Ativo,2025-03-11
+ATV00234,Equipamento_234,Notebook,João,São Paulo,Ativo,2025-03-18
+ATV00235,Equipamento_235,Desktop,Carlos,Recife,Inativo,2025-03-12
+ATV00236,Equipamento_236,Servidor,Marina,Recife,Manutenção,2025-05-18
+ATV00237,Equipamento_237,Notebook,João,Curitiba,Inativo,2025-02-04
+ATV00238,Equipamento_238,Desktop,Marina,São Paulo,Ativo,2025-05-16
+ATV00239,Equipamento_239,Impressora,Lucas,Curitiba,Inativo,2024-11-23
+ATV00240,Equipamento_240,Notebook,Carlos,Curitiba,Ativo,2024-12-14
+ATV00241,Equipamento_241,Servidor,João,São Paulo,Ativo,2025-02-02
+ATV00242,Equipamento_242,Desktop,João,Recife,Ativo,2025-05-09
+ATV00243,Equipamento_243,Impressora,Carlos,Recife,Inativo,2025-05-19
+ATV00244,Equipamento_244,Servidor,Lucas,Curitiba,Manutenção,2025-01-03
+ATV00245,Equipamento_245,Impressora,Fernanda,Recife,Inativo,2025-03-23
+ATV00246,Equipamento_246,Notebook,Marina,São Paulo,Ativo,2024-12-23
+ATV00247,Equipamento_247,Notebook,Lucas,Curitiba,Inativo,2025-04-07
+ATV00248,Equipamento_248,Desktop,Marina,Curitiba,Manutenção,2024-12-26
+ATV00249,Equipamento_249,Desktop,João,Recife,Ativo,2025-02-01
+ATV00250,Equipamento_250,Impressora,Marina,Rio de Janeiro,Ativo,2025-03-20
+ATV00251,Equipamento_251,Desktop,Lucas,São Paulo,Ativo,2025-04-19
+ATV00252,Equipamento_252,Desktop,João,São Paulo,Ativo,2025-02-12
+ATV00253,Equipamento_253,Notebook,Marina,Recife,Inativo,2025-03-12
+ATV00254,Equipamento_254,Notebook,Marina,São Paulo,Ativo,2025-03-15
+ATV00255,Equipamento_255,Impressora,João,Recife,Manutenção,2025-01-07
+ATV00256,Equipamento_256,Desktop,Lucas,Curitiba,Manutenção,2024-12-25
+ATV00257,Equipamento_257,Servidor,Lucas,São Paulo,Inativo,2025-02-12
+ATV00258,Equipamento_258,Servidor,Carlos,Rio de Janeiro,Inativo,2025-02-15
+ATV00259,Equipamento_259,Impressora,Lucas,Curitiba,Inativo,2024-11-28
+ATV00260,Equipamento_260,Notebook,Lucas,São Paulo,Inativo,2025-03-10
+ATV00261,Equipamento_261,Impressora,Marina,Curitiba,Ativo,2024-12-22
+ATV00262,Equipamento_262,Notebook,Marina,Curitiba,Inativo,2025-03-27
+ATV00263,Equipamento_263,Impressora,Fernanda,Curitiba,Manutenção,2025-05-02
+ATV00264,Equipamento_264,Servidor,Carlos,Recife,Manutenção,2025-05-13
+ATV00265,Equipamento_265,Servidor,Marina,Curitiba,Inativo,2025-01-03
+ATV00266,Equipamento_266,Servidor,Carlos,Curitiba,Ativo,2024-12-25
+ATV00267,Equipamento_267,Servidor,Lucas,Curitiba,Manutenção,2025-01-28
+ATV00268,Equipamento_268,Impressora,Carlos,Curitiba,Ativo,2025-03-06
+ATV00269,Equipamento_269,Notebook,João,Rio de Janeiro,Inativo,2025-05-19
+ATV00270,Equipamento_270,Notebook,Lucas,Recife,Manutenção,2024-12-12
+ATV00271,Equipamento_271,Desktop,Fernanda,Rio de Janeiro,Inativo,2025-01-18
+ATV00272,Equipamento_272,Servidor,Lucas,Rio de Janeiro,Ativo,2025-03-12
+ATV00273,Equipamento_273,Desktop,João,Curitiba,Manutenção,2024-11-23
+ATV00274,Equipamento_274,Notebook,Carlos,São Paulo,Inativo,2025-04-14
+ATV00275,Equipamento_275,Servidor,Marina,Recife,Inativo,2025-03-13
+ATV00276,Equipamento_276,Servidor,Lucas,Recife,Ativo,2025-02-06
+ATV00277,Equipamento_277,Impressora,Lucas,Curitiba,Manutenção,2024-12-16
+ATV00278,Equipamento_278,Notebook,Carlos,Recife,Inativo,2025-04-22
+ATV00279,Equipamento_279,Impressora,João,Rio de Janeiro,Ativo,2024-12-23
+ATV00280,Equipamento_280,Notebook,Fernanda,São Paulo,Ativo,2025-05-19
+ATV00281,Equipamento_281,Notebook,Fernanda,São Paulo,Inativo,2024-12-18
+ATV00282,Equipamento_282,Impressora,Carlos,São Paulo,Inativo,2025-01-31
+ATV00283,Equipamento_283,Impressora,Fernanda,São Paulo,Inativo,2025-05-05
+ATV00284,Equipamento_284,Impressora,Marina,Recife,Inativo,2024-12-07
+ATV00285,Equipamento_285,Impressora,João,Rio de Janeiro,Ativo,2024-11-25
+ATV00286,Equipamento_286,Notebook,Marina,Curitiba,Ativo,2025-03-03
+ATV00287,Equipamento_287,Notebook,Carlos,Rio de Janeiro,Ativo,2025-03-15
+ATV00288,Equipamento_288,Notebook,Lucas,Recife,Ativo,2024-12-04
+ATV00289,Equipamento_289,Desktop,Carlos,Rio de Janeiro,Manutenção,2024-12-24
+ATV00290,Equipamento_290,Desktop,Marina,Rio de Janeiro,Inativo,2025-02-19
+ATV00291,Equipamento_291,Servidor,Lucas,São Paulo,Inativo,2024-12-22
+ATV00292,Equipamento_292,Servidor,Fernanda,São Paulo,Ativo,2025-05-22
+ATV00293,Equipamento_293,Desktop,Carlos,Curitiba,Manutenção,2024-11-30
+ATV00294,Equipamento_294,Impressora,Marina,Rio de Janeiro,Inativo,2024-12-01
+ATV00295,Equipamento_295,Servidor,Marina,Curitiba,Inativo,2025-01-26
+ATV00296,Equipamento_296,Desktop,Marina,Recife,Manutenção,2025-05-17
+ATV00297,Equipamento_297,Desktop,Lucas,Recife,Manutenção,2025-01-22
+ATV00298,Equipamento_298,Desktop,Carlos,Curitiba,Inativo,2025-03-14
+ATV00299,Equipamento_299,Notebook,Marina,Recife,Inativo,2025-05-11
+ATV00300,Equipamento_300,Impressora,Carlos,Rio de Janeiro,Inativo,2025-02-03
+ATV00301,Equipamento_301,Servidor,João,Rio de Janeiro,Manutenção,2025-02-09
+ATV00302,Equipamento_302,Servidor,Carlos,São Paulo,Manutenção,2025-02-12
+ATV00303,Equipamento_303,Impressora,Marina,Rio de Janeiro,Manutenção,2024-12-25
+ATV00304,Equipamento_304,Desktop,Fernanda,Curitiba,Ativo,2025-03-04
+ATV00305,Equipamento_305,Impressora,Marina,Rio de Janeiro,Manutenção,2025-01-12
+ATV00306,Equipamento_306,Servidor,Lucas,Rio de Janeiro,Ativo,2025-05-06
+ATV00307,Equipamento_307,Servidor,Fernanda,Rio de Janeiro,Inativo,2024-12-25
+ATV00308,Equipamento_308,Impressora,Fernanda,São Paulo,Inativo,2025-04-12
+ATV00309,Equipamento_309,Servidor,João,São Paulo,Inativo,2025-03-20
+ATV00310,Equipamento_310,Notebook,Marina,Rio de Janeiro,Manutenção,2024-11-30
+ATV00311,Equipamento_311,Desktop,João,Recife,Manutenção,2025-02-09
+ATV00312,Equipamento_312,Notebook,Carlos,Curitiba,Ativo,2025-01-09
+ATV00313,Equipamento_313,Servidor,Fernanda,São Paulo,Inativo,2025-01-05
+ATV00314,Equipamento_314,Desktop,João,Curitiba,Inativo,2025-02-15
+ATV00315,Equipamento_315,Impressora,João,Curitiba,Ativo,2025-03-24
+ATV00316,Equipamento_316,Servidor,Lucas,Rio de Janeiro,Ativo,2025-01-23
+ATV00317,Equipamento_317,Servidor,Carlos,Recife,Manutenção,2025-02-10
+ATV00318,Equipamento_318,Impressora,Carlos,Rio de Janeiro,Inativo,2024-12-16
+ATV00319,Equipamento_319,Desktop,Marina,Curitiba,Inativo,2025-01-03
+ATV00320,Equipamento_320,Impressora,Fernanda,Rio de Janeiro,Manutenção,2024-12-29
+ATV00321,Equipamento_321,Desktop,João,Recife,Inativo,2025-03-17
+ATV00322,Equipamento_322,Impressora,Marina,Curitiba,Ativo,2025-01-30
+ATV00323,Equipamento_323,Desktop,Marina,Rio de Janeiro,Inativo,2025-02-09
+ATV00324,Equipamento_324,Notebook,Marina,Recife,Ativo,2025-05-03
+ATV00325,Equipamento_325,Notebook,João,São Paulo,Inativo,2025-01-05
+ATV00326,Equipamento_326,Notebook,Fernanda,Curitiba,Manutenção,2024-12-17
+ATV00327,Equipamento_327,Impressora,Marina,Curitiba,Ativo,2024-11-23
+ATV00328,Equipamento_328,Notebook,Lucas,Recife,Ativo,2025-05-02
+ATV00329,Equipamento_329,Servidor,Marina,Rio de Janeiro,Ativo,2025-01-27
+ATV00330,Equipamento_330,Desktop,Lucas,São Paulo,Inativo,2024-12-26
+ATV00331,Equipamento_331,Impressora,Carlos,Rio de Janeiro,Inativo,2025-01-05
+ATV00332,Equipamento_332,Impressora,João,Curitiba,Inativo,2025-04-30
+ATV00333,Equipamento_333,Impressora,João,Curitiba,Ativo,2025-02-27
+ATV00334,Equipamento_334,Desktop,João,Recife,Inativo,2025-03-15
+ATV00335,Equipamento_335,Desktop,João,Recife,Manutenção,2025-04-11
+ATV00336,Equipamento_336,Desktop,Marina,São Paulo,Manutenção,2024-12-11
+ATV00337,Equipamento_337,Notebook,Fernanda,Rio de Janeiro,Inativo,2025-03-27
+ATV00338,Equipamento_338,Servidor,Lucas,Recife,Inativo,2025-03-10
+ATV00339,Equipamento_339,Notebook,Lucas,São Paulo,Ativo,2025-04-23
+ATV00340,Equipamento_340,Impressora,Marina,Curitiba,Manutenção,2025-05-12
+ATV00341,Equipamento_341,Impressora,Carlos,Rio de Janeiro,Ativo,2024-12-12
+ATV00342,Equipamento_342,Impressora,João,São Paulo,Manutenção,2025-04-27
+ATV00343,Equipamento_343,Impressora,João,Curitiba,Ativo,2025-02-04
+ATV00344,Equipamento_344,Desktop,Lucas,Recife,Manutenção,2025-02-10
+ATV00345,Equipamento_345,Servidor,Marina,Recife,Inativo,2024-11-28
+ATV00346,Equipamento_346,Notebook,João,São Paulo,Manutenção,2025-04-22
+ATV00347,Equipamento_347,Notebook,João,Curitiba,Ativo,2025-05-17
+ATV00348,Equipamento_348,Desktop,Carlos,Rio de Janeiro,Manutenção,2025-01-19
+ATV00349,Equipamento_349,Impressora,Lucas,Curitiba,Inativo,2025-02-13
+ATV00350,Equipamento_350,Notebook,Fernanda,Rio de Janeiro,Manutenção,2025-04-27
+ATV00351,Equipamento_351,Notebook,Fernanda,São Paulo,Manutenção,2024-11-25
+ATV00352,Equipamento_352,Desktop,Fernanda,São Paulo,Inativo,2025-01-01
+ATV00353,Equipamento_353,Impressora,Marina,São Paulo,Inativo,2025-05-22
+ATV00354,Equipamento_354,Notebook,João,Recife,Manutenção,2025-02-13
+ATV00355,Equipamento_355,Notebook,Fernanda,Rio de Janeiro,Inativo,2025-02-22
+ATV00356,Equipamento_356,Impressora,João,Curitiba,Ativo,2025-04-27
+ATV00357,Equipamento_357,Notebook,Marina,São Paulo,Inativo,2025-02-01
+ATV00358,Equipamento_358,Notebook,Marina,Recife,Manutenção,2025-03-29
+ATV00359,Equipamento_359,Impressora,Fernanda,São Paulo,Ativo,2025-04-12
+ATV00360,Equipamento_360,Desktop,Marina,Recife,Inativo,2025-05-10
+ATV00361,Equipamento_361,Impressora,João,Recife,Inativo,2025-05-03
+ATV00362,Equipamento_362,Servidor,Carlos,Rio de Janeiro,Inativo,2025-04-07
+ATV00363,Equipamento_363,Desktop,Fernanda,Curitiba,Inativo,2025-03-15
+ATV00364,Equipamento_364,Notebook,Carlos,Recife,Manutenção,2025-05-16
+ATV00365,Equipamento_365,Servidor,Marina,Curitiba,Ativo,2025-02-22
+ATV00366,Equipamento_366,Impressora,Carlos,Curitiba,Inativo,2025-02-11
+ATV00367,Equipamento_367,Desktop,Marina,São Paulo,Ativo,2025-05-10
+ATV00368,Equipamento_368,Impressora,Marina,Recife,Manutenção,2025-05-01
+ATV00369,Equipamento_369,Impressora,João,Curitiba,Inativo,2025-03-30
+ATV00370,Equipamento_370,Servidor,João,Recife,Ativo,2025-01-27
+ATV00371,Equipamento_371,Notebook,Carlos,Curitiba,Inativo,2025-04-11
+ATV00372,Equipamento_372,Servidor,Lucas,São Paulo,Inativo,2024-12-28
+ATV00373,Equipamento_373,Desktop,Marina,São Paulo,Ativo,2024-12-08
+ATV00374,Equipamento_374,Notebook,Marina,São Paulo,Manutenção,2024-12-13
+ATV00375,Equipamento_375,Desktop,Fernanda,Recife,Inativo,2025-02-10
+ATV00376,Equipamento_376,Impressora,Marina,Curitiba,Manutenção,2025-02-13
+ATV00377,Equipamento_377,Notebook,Marina,Curitiba,Ativo,2025-04-14
+ATV00378,Equipamento_378,Notebook,João,Recife,Manutenção,2025-03-08
+ATV00379,Equipamento_379,Servidor,João,Recife,Ativo,2025-03-15
+ATV00380,Equipamento_380,Servidor,Carlos,Curitiba,Inativo,2025-01-16
+ATV00381,Equipamento_381,Notebook,João,São Paulo,Ativo,2025-01-17
+ATV00382,Equipamento_382,Servidor,Fernanda,Rio de Janeiro,Ativo,2025-01-10
+ATV00383,Equipamento_383,Desktop,Fernanda,Rio de Janeiro,Manutenção,2024-11-28
+ATV00384,Equipamento_384,Impressora,Fernanda,São Paulo,Ativo,2024-11-26
+ATV00385,Equipamento_385,Desktop,Marina,Recife,Inativo,2025-04-28
+ATV00386,Equipamento_386,Impressora,Carlos,Curitiba,Manutenção,2025-03-14
+ATV00387,Equipamento_387,Desktop,Fernanda,São Paulo,Manutenção,2025-02-24
+ATV00388,Equipamento_388,Impressora,Marina,São Paulo,Ativo,2024-12-01
+ATV00389,Equipamento_389,Notebook,Marina,Recife,Ativo,2025-03-01
+ATV00390,Equipamento_390,Desktop,João,Rio de Janeiro,Ativo,2024-11-24
+ATV00391,Equipamento_391,Desktop,Lucas,Rio de Janeiro,Inativo,2025-03-25
+ATV00392,Equipamento_392,Desktop,Lucas,Curitiba,Ativo,2025-01-16
+ATV00393,Equipamento_393,Notebook,Marina,Curitiba,Manutenção,2025-03-05
+ATV00394,Equipamento_394,Desktop,Marina,Rio de Janeiro,Ativo,2025-01-22
+ATV00395,Equipamento_395,Impressora,Fernanda,Rio de Janeiro,Ativo,2025-01-09
+ATV00396,Equipamento_396,Desktop,João,Recife,Inativo,2025-04-21
+ATV00397,Equipamento_397,Desktop,Carlos,São Paulo,Ativo,2025-01-08
+ATV00398,Equipamento_398,Servidor,Marina,Rio de Janeiro,Inativo,2024-11-24
+ATV00399,Equipamento_399,Servidor,Carlos,Recife,Ativo,2025-03-28
+ATV00400,Equipamento_400,Notebook,Lucas,Recife,Ativo,2025-03-07
+ATV00401,Equipamento_401,Desktop,Lucas,Rio de Janeiro,Ativo,2025-02-24
+ATV00402,Equipamento_402,Desktop,Fernanda,Curitiba,Manutenção,2025-04-30
+ATV00403,Equipamento_403,Servidor,Fernanda,Rio de Janeiro,Inativo,2024-12-09
+ATV00404,Equipamento_404,Notebook,Marina,Curitiba,Inativo,2025-03-05
+ATV00405,Equipamento_405,Desktop,Marina,Recife,Manutenção,2025-05-11
+ATV00406,Equipamento_406,Servidor,João,São Paulo,Inativo,2024-12-11
+ATV00407,Equipamento_407,Servidor,Marina,Recife,Ativo,2025-05-03
+ATV00408,Equipamento_408,Servidor,Marina,Recife,Inativo,2025-02-03
+ATV00409,Equipamento_409,Notebook,Marina,São Paulo,Ativo,2025-01-11
+ATV00410,Equipamento_410,Desktop,João,São Paulo,Manutenção,2025-04-21
+ATV00411,Equipamento_411,Notebook,Marina,São Paulo,Inativo,2024-11-26
+ATV00412,Equipamento_412,Desktop,João,Rio de Janeiro,Manutenção,2025-03-14
+ATV00413,Equipamento_413,Impressora,Fernanda,São Paulo,Inativo,2024-12-02
+ATV00414,Equipamento_414,Desktop,Fernanda,São Paulo,Manutenção,2025-03-21
+ATV00415,Equipamento_415,Servidor,Carlos,Curitiba,Ativo,2025-04-30
+ATV00416,Equipamento_416,Impressora,Carlos,Curitiba,Manutenção,2024-12-17
+ATV00417,Equipamento_417,Impressora,João,São Paulo,Inativo,2024-12-16
+ATV00418,Equipamento_418,Desktop,Marina,Curitiba,Ativo,2025-01-30
+ATV00419,Equipamento_419,Desktop,Fernanda,Rio de Janeiro,Manutenção,2024-12-24
+ATV00420,Equipamento_420,Servidor,João,São Paulo,Inativo,2025-02-16
+ATV00421,Equipamento_421,Desktop,Marina,Recife,Manutenção,2025-03-28
+ATV00422,Equipamento_422,Notebook,João,Curitiba,Ativo,2024-12-26
+ATV00423,Equipamento_423,Servidor,Marina,Rio de Janeiro,Inativo,2025-05-06
+ATV00424,Equipamento_424,Notebook,Lucas,São Paulo,Manutenção,2025-01-18
+ATV00425,Equipamento_425,Impressora,Lucas,Recife,Manutenção,2025-05-19
+ATV00426,Equipamento_426,Servidor,Lucas,Recife,Ativo,2024-12-06
+ATV00427,Equipamento_427,Impressora,Marina,Curitiba,Manutenção,2025-02-09
+ATV00428,Equipamento_428,Notebook,Lucas,Curitiba,Ativo,2025-03-06
+ATV00429,Equipamento_429,Notebook,Lucas,Curitiba,Ativo,2025-04-22
+ATV00430,Equipamento_430,Impressora,João,Recife,Inativo,2025-03-07
+ATV00431,Equipamento_431,Impressora,Fernanda,São Paulo,Manutenção,2025-01-23
+ATV00432,Equipamento_432,Servidor,Lucas,Recife,Manutenção,2025-01-02
+ATV00433,Equipamento_433,Desktop,Carlos,Rio de Janeiro,Manutenção,2025-01-19
+ATV00434,Equipamento_434,Notebook,Carlos,São Paulo,Inativo,2024-12-25
+ATV00435,Equipamento_435,Desktop,Marina,São Paulo,Manutenção,2025-01-06
+ATV00436,Equipamento_436,Impressora,Lucas,Rio de Janeiro,Inativo,2024-12-27
+ATV00437,Equipamento_437,Notebook,Lucas,São Paulo,Ativo,2025-03-04
+ATV00438,Equipamento_438,Desktop,Marina,Rio de Janeiro,Manutenção,2025-02-05
+ATV00439,Equipamento_439,Impressora,João,Curitiba,Ativo,2024-11-25
+ATV00440,Equipamento_440,Desktop,Marina,Rio de Janeiro,Manutenção,2025-04-22
+ATV00441,Equipamento_441,Desktop,Fernanda,Rio de Janeiro,Manutenção,2025-01-26
+ATV00442,Equipamento_442,Notebook,Fernanda,Recife,Inativo,2025-02-18
+ATV00443,Equipamento_443,Servidor,Fernanda,Recife,Manutenção,2025-05-03
+ATV00444,Equipamento_444,Desktop,João,São Paulo,Inativo,2024-11-23
+ATV00445,Equipamento_445,Impressora,Carlos,São Paulo,Ativo,2025-03-09
+ATV00446,Equipamento_446,Impressora,Fernanda,São Paulo,Ativo,2024-12-18
+ATV00447,Equipamento_447,Desktop,João,Rio de Janeiro,Ativo,2025-03-21
+ATV00448,Equipamento_448,Impressora,Carlos,Recife,Inativo,2025-03-17
+ATV00449,Equipamento_449,Servidor,Lucas,São Paulo,Ativo,2025-01-22
+ATV00450,Equipamento_450,Impressora,Marina,São Paulo,Inativo,2025-03-16
+ATV00451,Equipamento_451,Servidor,Fernanda,Rio de Janeiro,Inativo,2025-04-16
+ATV00452,Equipamento_452,Notebook,Fernanda,São Paulo,Inativo,2024-12-08
+ATV00453,Equipamento_453,Impressora,Fernanda,São Paulo,Manutenção,2025-04-08
+ATV00454,Equipamento_454,Servidor,Carlos,São Paulo,Inativo,2024-12-30
+ATV00455,Equipamento_455,Servidor,Fernanda,Curitiba,Ativo,2025-03-23
+ATV00456,Equipamento_456,Impressora,Fernanda,Recife,Manutenção,2025-03-12
+ATV00457,Equipamento_457,Notebook,Lucas,Recife,Inativo,2024-12-17
+ATV00458,Equipamento_458,Servidor,Carlos,Recife,Inativo,2025-03-05
+ATV00459,Equipamento_459,Notebook,Lucas,São Paulo,Inativo,2025-03-07
+ATV00460,Equipamento_460,Impressora,Fernanda,Curitiba,Ativo,2025-03-22
+ATV00461,Equipamento_461,Impressora,Fernanda,Rio de Janeiro,Ativo,2025-04-16
+ATV00462,Equipamento_462,Desktop,Marina,Rio de Janeiro,Inativo,2025-03-01
+ATV00463,Equipamento_463,Desktop,Marina,Recife,Manutenção,2025-03-06
+ATV00464,Equipamento_464,Notebook,Carlos,Recife,Manutenção,2025-01-23
+ATV00465,Equipamento_465,Impressora,João,São Paulo,Ativo,2025-02-08
+ATV00466,Equipamento_466,Impressora,Carlos,Recife,Ativo,2025-05-03
+ATV00467,Equipamento_467,Servidor,Marina,São Paulo,Inativo,2024-12-07
+ATV00468,Equipamento_468,Notebook,Marina,São Paulo,Ativo,2025-02-17
+ATV00469,Equipamento_469,Notebook,João,São Paulo,Inativo,2024-12-23
+ATV00470,Equipamento_470,Servidor,Carlos,Curitiba,Inativo,2025-02-01
+ATV00471,Equipamento_471,Servidor,Lucas,São Paulo,Ativo,2025-01-11
+ATV00472,Equipamento_472,Servidor,Lucas,Curitiba,Manutenção,2024-12-12
+ATV00473,Equipamento_473,Notebook,Fernanda,Curitiba,Manutenção,2024-11-23
+ATV00474,Equipamento_474,Desktop,João,Recife,Inativo,2025-01-03
+ATV00475,Equipamento_475,Servidor,Lucas,Recife,Inativo,2024-12-25
+ATV00476,Equipamento_476,Impressora,Marina,São Paulo,Ativo,2025-01-09
+ATV00477,Equipamento_477,Impressora,João,Rio de Janeiro,Inativo,2024-12-18
+ATV00478,Equipamento_478,Servidor,Carlos,Recife,Manutenção,2025-01-19
+ATV00479,Equipamento_479,Impressora,Lucas,São Paulo,Inativo,2025-03-07
+ATV00480,Equipamento_480,Servidor,Lucas,Rio de Janeiro,Ativo,2025-02-06
+ATV00481,Equipamento_481,Impressora,Marina,Curitiba,Manutenção,2025-01-23
+ATV00482,Equipamento_482,Impressora,Marina,Curitiba,Inativo,2025-01-17
+ATV00483,Equipamento_483,Impressora,Lucas,Recife,Manutenção,2025-03-07
+ATV00484,Equipamento_484,Desktop,Carlos,Rio de Janeiro,Ativo,2025-04-14
+ATV00485,Equipamento_485,Impressora,Marina,Curitiba,Ativo,2025-02-20
+ATV00486,Equipamento_486,Desktop,João,São Paulo,Manutenção,2025-05-17
+ATV00487,Equipamento_487,Servidor,Lucas,Recife,Manutenção,2025-04-06
+ATV00488,Equipamento_488,Notebook,Marina,São Paulo,Ativo,2025-04-19
+ATV00489,Equipamento_489,Notebook,Marina,Rio de Janeiro,Manutenção,2025-04-25
+ATV00490,Equipamento_490,Impressora,João,Rio de Janeiro,Manutenção,2025-01-17
+ATV00491,Equipamento_491,Impressora,Lucas,São Paulo,Inativo,2024-11-25
+ATV00492,Equipamento_492,Servidor,Fernanda,Rio de Janeiro,Ativo,2025-04-09
+ATV00493,Equipamento_493,Impressora,Carlos,Rio de Janeiro,Manutenção,2025-03-19
+ATV00494,Equipamento_494,Desktop,Carlos,Rio de Janeiro,Manutenção,2025-03-30
+ATV00495,Equipamento_495,Notebook,Lucas,São Paulo,Ativo,2025-01-22
+ATV00496,Equipamento_496,Impressora,Fernanda,Curitiba,Inativo,2025-02-07
+ATV00497,Equipamento_497,Notebook,Fernanda,São Paulo,Manutenção,2025-05-11
+ATV00498,Equipamento_498,Servidor,Lucas,São Paulo,Inativo,2025-01-09
+ATV00499,Equipamento_499,Desktop,Marina,Rio de Janeiro,Manutenção,2025-01-23
+ATV00500,Equipamento_500,Notebook,Marina,Recife,Manutenção,2025-02-04
+ATV00501,Equipamento_501,Servidor,João,São Paulo,Inativo,2024-12-21
+ATV00502,Equipamento_502,Impressora,Carlos,São Paulo,Ativo,2025-05-16
+ATV00503,Equipamento_503,Impressora,Marina,Rio de Janeiro,Manutenção,2024-11-25
+ATV00504,Equipamento_504,Servidor,Marina,Curitiba,Manutenção,2025-02-05
+ATV00505,Equipamento_505,Desktop,Marina,São Paulo,Ativo,2025-05-06
+ATV00506,Equipamento_506,Notebook,Marina,Curitiba,Manutenção,2025-05-13
+ATV00507,Equipamento_507,Desktop,Fernanda,Recife,Ativo,2025-03-09
+ATV00508,Equipamento_508,Notebook,Fernanda,Recife,Ativo,2024-12-10
+ATV00509,Equipamento_509,Desktop,Lucas,Curitiba,Ativo,2024-12-26
+ATV00510,Equipamento_510,Impressora,João,Rio de Janeiro,Inativo,2024-12-25
+ATV00511,Equipamento_511,Servidor,Lucas,São Paulo,Inativo,2024-12-09
+ATV00512,Equipamento_512,Impressora,Marina,Rio de Janeiro,Inativo,2025-04-01
+ATV00513,Equipamento_513,Servidor,Lucas,São Paulo,Inativo,2025-04-02
+ATV00514,Equipamento_514,Impressora,Fernanda,Recife,Manutenção,2025-03-05
+ATV00515,Equipamento_515,Desktop,Marina,Recife,Ativo,2025-02-28
+ATV00516,Equipamento_516,Desktop,Lucas,São Paulo,Ativo,2024-11-29
+ATV00517,Equipamento_517,Servidor,Fernanda,São Paulo,Ativo,2024-11-27
+ATV00518,Equipamento_518,Impressora,Fernanda,Recife,Manutenção,2025-02-11
+ATV00519,Equipamento_519,Servidor,Marina,São Paulo,Ativo,2025-02-27
+ATV00520,Equipamento_520,Servidor,Carlos,Recife,Manutenção,2025-05-22
+ATV00521,Equipamento_521,Servidor,Lucas,Curitiba,Manutenção,2025-04-09
+ATV00522,Equipamento_522,Notebook,João,Recife,Manutenção,2024-12-05
+ATV00523,Equipamento_523,Desktop,João,Recife,Inativo,2024-12-16
+ATV00524,Equipamento_524,Servidor,Carlos,Rio de Janeiro,Inativo,2025-04-12
+ATV00525,Equipamento_525,Desktop,Lucas,Curitiba,Inativo,2025-04-22
+ATV00526,Equipamento_526,Desktop,Lucas,Rio de Janeiro,Inativo,2024-11-23
+ATV00527,Equipamento_527,Desktop,João,Recife,Ativo,2025-03-17
+ATV00528,Equipamento_528,Servidor,Lucas,Rio de Janeiro,Manutenção,2025-04-22
+ATV00529,Equipamento_529,Impressora,Marina,São Paulo,Manutenção,2025-04-07
+ATV00530,Equipamento_530,Notebook,Marina,Curitiba,Inativo,2025-05-05
+ATV00531,Equipamento_531,Impressora,Marina,Curitiba,Inativo,2025-05-05
+ATV00532,Equipamento_532,Desktop,Marina,Recife,Ativo,2024-12-07
+ATV00533,Equipamento_533,Impressora,Carlos,São Paulo,Ativo,2025-02-04
+ATV00534,Equipamento_534,Impressora,Carlos,Rio de Janeiro,Inativo,2025-04-23
+ATV00535,Equipamento_535,Servidor,Carlos,Curitiba,Ativo,2024-11-24
+ATV00536,Equipamento_536,Servidor,Carlos,Recife,Inativo,2025-04-16
+ATV00537,Equipamento_537,Desktop,Lucas,Rio de Janeiro,Inativo,2025-02-03
+ATV00538,Equipamento_538,Notebook,João,Curitiba,Ativo,2025-04-12
+ATV00539,Equipamento_539,Servidor,Carlos,Curitiba,Manutenção,2025-03-17
+ATV00540,Equipamento_540,Desktop,Marina,São Paulo,Ativo,2024-11-28
+ATV00541,Equipamento_541,Desktop,João,Curitiba,Manutenção,2025-04-22
+ATV00542,Equipamento_542,Impressora,Marina,Recife,Manutenção,2025-03-22
+ATV00543,Equipamento_543,Servidor,Fernanda,Curitiba,Manutenção,2024-12-09
+ATV00544,Equipamento_544,Desktop,João,Recife,Manutenção,2025-04-16
+ATV00545,Equipamento_545,Impressora,Carlos,Recife,Manutenção,2024-11-30
+ATV00546,Equipamento_546,Servidor,Lucas,Recife,Ativo,2025-02-18
+ATV00547,Equipamento_547,Notebook,Fernanda,São Paulo,Manutenção,2025-04-10
+ATV00548,Equipamento_548,Desktop,Carlos,Curitiba,Manutenção,2025-04-19
+ATV00549,Equipamento_549,Notebook,Lucas,Recife,Manutenção,2024-12-19
+ATV00550,Equipamento_550,Notebook,Fernanda,Curitiba,Manutenção,2025-05-11
+ATV00551,Equipamento_551,Notebook,Marina,São Paulo,Manutenção,2024-12-31
+ATV00552,Equipamento_552,Impressora,João,Recife,Manutenção,2025-03-20
+ATV00553,Equipamento_553,Impressora,Carlos,Curitiba,Inativo,2024-12-24
+ATV00554,Equipamento_554,Desktop,Marina,Curitiba,Inativo,2025-03-01
+ATV00555,Equipamento_555,Impressora,Carlos,Rio de Janeiro,Ativo,2025-03-01
+ATV00556,Equipamento_556,Servidor,Marina,Recife,Ativo,2025-02-04
+ATV00557,Equipamento_557,Notebook,Lucas,São Paulo,Inativo,2025-01-10
+ATV00558,Equipamento_558,Desktop,Lucas,Rio de Janeiro,Inativo,2025-01-19
+ATV00559,Equipamento_559,Impressora,Carlos,Rio de Janeiro,Ativo,2025-02-20
+ATV00560,Equipamento_560,Notebook,Carlos,Curitiba,Inativo,2024-11-25
+ATV00561,Equipamento_561,Notebook,Marina,Curitiba,Inativo,2025-05-07
+ATV00562,Equipamento_562,Desktop,Carlos,Rio de Janeiro,Manutenção,2025-03-18
+ATV00563,Equipamento_563,Notebook,João,São Paulo,Inativo,2025-05-13
+ATV00564,Equipamento_564,Impressora,Carlos,Recife,Inativo,2025-03-26
+ATV00565,Equipamento_565,Servidor,Lucas,São Paulo,Inativo,2025-01-28
+ATV00566,Equipamento_566,Servidor,Fernanda,Rio de Janeiro,Manutenção,2024-11-28
+ATV00567,Equipamento_567,Desktop,Marina,Rio de Janeiro,Manutenção,2025-04-16
+ATV00568,Equipamento_568,Impressora,Lucas,Recife,Inativo,2024-12-08
+ATV00569,Equipamento_569,Desktop,Marina,Curitiba,Inativo,2025-04-16
+ATV00570,Equipamento_570,Servidor,Lucas,Curitiba,Ativo,2025-04-08
+ATV00571,Equipamento_571,Desktop,Carlos,Curitiba,Manutenção,2025-03-12
+ATV00572,Equipamento_572,Notebook,Lucas,Curitiba,Inativo,2025-04-12
+ATV00573,Equipamento_573,Impressora,Marina,Recife,Ativo,2025-05-13
+ATV00574,Equipamento_574,Servidor,Carlos,Rio de Janeiro,Manutenção,2024-12-19
+ATV00575,Equipamento_575,Impressora,Marina,São Paulo,Manutenção,2024-12-30
+ATV00576,Equipamento_576,Servidor,Fernanda,Recife,Ativo,2025-02-18
+ATV00577,Equipamento_577,Impressora,Fernanda,Recife,Manutenção,2025-01-19
+ATV00578,Equipamento_578,Notebook,Carlos,Curitiba,Manutenção,2025-01-05
+ATV00579,Equipamento_579,Desktop,Fernanda,Curitiba,Ativo,2025-04-13
+ATV00580,Equipamento_580,Impressora,Lucas,Curitiba,Ativo,2024-12-14
+ATV00581,Equipamento_581,Notebook,Fernanda,Curitiba,Manutenção,2025-01-15
+ATV00582,Equipamento_582,Servidor,Fernanda,Rio de Janeiro,Ativo,2025-01-11
+ATV00583,Equipamento_583,Desktop,Marina,Curitiba,Inativo,2025-02-18
+ATV00584,Equipamento_584,Desktop,Fernanda,São Paulo,Inativo,2025-05-22
+ATV00585,Equipamento_585,Impressora,Fernanda,São Paulo,Manutenção,2025-02-23
+ATV00586,Equipamento_586,Servidor,Carlos,Rio de Janeiro,Inativo,2025-02-04
+ATV00587,Equipamento_587,Servidor,Fernanda,Recife,Manutenção,2025-01-16
+ATV00588,Equipamento_588,Servidor,Lucas,São Paulo,Inativo,2025-03-20
+ATV00589,Equipamento_589,Notebook,João,Recife,Manutenção,2024-12-15
+ATV00590,Equipamento_590,Desktop,Fernanda,Recife,Manutenção,2025-01-27
+ATV00591,Equipamento_591,Impressora,João,Rio de Janeiro,Inativo,2025-01-26
+ATV00592,Equipamento_592,Servidor,João,São Paulo,Ativo,2024-12-12
+ATV00593,Equipamento_593,Notebook,Lucas,Rio de Janeiro,Manutenção,2024-11-27
+ATV00594,Equipamento_594,Notebook,Marina,São Paulo,Ativo,2025-04-18
+ATV00595,Equipamento_595,Desktop,Fernanda,Recife,Manutenção,2025-01-26
+ATV00596,Equipamento_596,Impressora,Lucas,São Paulo,Manutenção,2025-01-02
+ATV00597,Equipamento_597,Notebook,João,Curitiba,Inativo,2024-12-21
+ATV00598,Equipamento_598,Servidor,Lucas,Rio de Janeiro,Manutenção,2025-05-15
+ATV00599,Equipamento_599,Impressora,Lucas,Rio de Janeiro,Ativo,2025-03-27
+ATV00600,Equipamento_600,Notebook,Fernanda,São Paulo,Ativo,2025-04-03
+ATV00601,Equipamento_601,Notebook,Fernanda,São Paulo,Inativo,2024-11-25
+ATV00602,Equipamento_602,Impressora,João,Rio de Janeiro,Ativo,2025-05-07
+ATV00603,Equipamento_603,Notebook,Fernanda,Rio de Janeiro,Manutenção,2025-05-20
+ATV00604,Equipamento_604,Notebook,Fernanda,Curitiba,Ativo,2025-05-05
+ATV00605,Equipamento_605,Impressora,Carlos,São Paulo,Ativo,2024-12-26
+ATV00606,Equipamento_606,Desktop,Lucas,Rio de Janeiro,Ativo,2024-12-11
+ATV00607,Equipamento_607,Servidor,João,São Paulo,Ativo,2025-02-22
+ATV00608,Equipamento_608,Impressora,Carlos,São Paulo,Manutenção,2025-03-06
+ATV00609,Equipamento_609,Notebook,João,Rio de Janeiro,Manutenção,2025-05-14
+ATV00610,Equipamento_610,Servidor,Fernanda,Recife,Inativo,2024-12-12
+ATV00611,Equipamento_611,Desktop,Lucas,São Paulo,Ativo,2025-01-18
+ATV00612,Equipamento_612,Impressora,Fernanda,Curitiba,Inativo,2025-02-21
+ATV00613,Equipamento_613,Notebook,Lucas,São Paulo,Manutenção,2025-01-02
+ATV00614,Equipamento_614,Impressora,João,Recife,Ativo,2024-12-26
+ATV00615,Equipamento_615,Impressora,João,Rio de Janeiro,Ativo,2025-05-05
+ATV00616,Equipamento_616,Notebook,João,Rio de Janeiro,Inativo,2025-04-17
+ATV00617,Equipamento_617,Servidor,Fernanda,Curitiba,Ativo,2025-03-13
+ATV00618,Equipamento_618,Impressora,Fernanda,São Paulo,Manutenção,2024-12-01
+ATV00619,Equipamento_619,Servidor,Marina,São Paulo,Ativo,2025-04-22
+ATV00620,Equipamento_620,Desktop,Fernanda,São Paulo,Ativo,2024-11-29
+ATV00621,Equipamento_621,Impressora,Marina,Recife,Manutenção,2025-03-13
+ATV00622,Equipamento_622,Impressora,Marina,Rio de Janeiro,Ativo,2025-01-20
+ATV00623,Equipamento_623,Notebook,João,Recife,Inativo,2025-01-22
+ATV00624,Equipamento_624,Impressora,Lucas,Recife,Ativo,2025-03-17
+ATV00625,Equipamento_625,Notebook,João,Curitiba,Ativo,2025-01-24
+ATV00626,Equipamento_626,Servidor,Fernanda,Rio de Janeiro,Manutenção,2025-05-04
+ATV00627,Equipamento_627,Desktop,Lucas,São Paulo,Manutenção,2025-01-22
+ATV00628,Equipamento_628,Notebook,Fernanda,Curitiba,Manutenção,2024-12-08
+ATV00629,Equipamento_629,Servidor,Lucas,Curitiba,Ativo,2025-05-04
+ATV00630,Equipamento_630,Impressora,Lucas,São Paulo,Inativo,2025-03-20
+ATV00631,Equipamento_631,Impressora,João,Recife,Manutenção,2024-12-24
+ATV00632,Equipamento_632,Desktop,Fernanda,Recife,Ativo,2025-01-18
+ATV00633,Equipamento_633,Servidor,Lucas,Rio de Janeiro,Ativo,2025-04-22
+ATV00634,Equipamento_634,Impressora,João,Recife,Ativo,2025-02-04
+ATV00635,Equipamento_635,Servidor,Lucas,Rio de Janeiro,Ativo,2025-03-30
+ATV00636,Equipamento_636,Desktop,João,São Paulo,Inativo,2024-12-07
+ATV00637,Equipamento_637,Servidor,Lucas,Curitiba,Inativo,2025-03-30
+ATV00638,Equipamento_638,Desktop,Carlos,Rio de Janeiro,Inativo,2024-12-29
+ATV00639,Equipamento_639,Impressora,João,Recife,Manutenção,2025-02-12
+ATV00640,Equipamento_640,Notebook,Marina,Curitiba,Manutenção,2025-04-23
+ATV00641,Equipamento_641,Desktop,Marina,Rio de Janeiro,Ativo,2025-01-11
+ATV00642,Equipamento_642,Desktop,Carlos,Curitiba,Manutenção,2025-03-10
+ATV00643,Equipamento_643,Servidor,João,Rio de Janeiro,Ativo,2024-12-11
+ATV00644,Equipamento_644,Notebook,Fernanda,São Paulo,Ativo,2025-02-26
+ATV00645,Equipamento_645,Desktop,Carlos,Curitiba,Inativo,2025-03-10
+ATV00646,Equipamento_646,Servidor,Carlos,Recife,Manutenção,2024-12-17
+ATV00647,Equipamento_647,Notebook,João,Recife,Ativo,2025-04-18
+ATV00648,Equipamento_648,Notebook,Lucas,São Paulo,Ativo,2025-03-14
+ATV00649,Equipamento_649,Servidor,Carlos,São Paulo,Inativo,2025-04-08
+ATV00650,Equipamento_650,Impressora,Carlos,Recife,Ativo,2025-03-18
+ATV00651,Equipamento_651,Desktop,Carlos,Rio de Janeiro,Inativo,2025-03-28
+ATV00652,Equipamento_652,Desktop,Marina,São Paulo,Ativo,2025-01-30
+ATV00653,Equipamento_653,Impressora,Lucas,São Paulo,Ativo,2024-12-06
+ATV00654,Equipamento_654,Desktop,Fernanda,São Paulo,Inativo,2025-04-19
+ATV00655,Equipamento_655,Notebook,Fernanda,São Paulo,Ativo,2025-02-01
+ATV00656,Equipamento_656,Desktop,Marina,Curitiba,Inativo,2025-03-10
+ATV00657,Equipamento_657,Notebook,Fernanda,Recife,Ativo,2024-12-09
+ATV00658,Equipamento_658,Servidor,Marina,São Paulo,Inativo,2025-01-12
+ATV00659,Equipamento_659,Desktop,Fernanda,São Paulo,Manutenção,2025-01-28
+ATV00660,Equipamento_660,Impressora,João,Recife,Ativo,2025-04-22
+ATV00661,Equipamento_661,Notebook,Lucas,Curitiba,Ativo,2025-04-01
+ATV00662,Equipamento_662,Impressora,Fernanda,São Paulo,Manutenção,2025-05-05
+ATV00663,Equipamento_663,Desktop,Lucas,Recife,Ativo,2025-05-04
+ATV00664,Equipamento_664,Desktop,Lucas,Recife,Manutenção,2025-02-09
+ATV00665,Equipamento_665,Notebook,Fernanda,Recife,Inativo,2025-02-16
+ATV00666,Equipamento_666,Servidor,Lucas,Rio de Janeiro,Ativo,2025-03-15
+ATV00667,Equipamento_667,Desktop,Fernanda,São Paulo,Manutenção,2025-04-06
+ATV00668,Equipamento_668,Servidor,João,Recife,Ativo,2025-04-12
+ATV00669,Equipamento_669,Impressora,Marina,Recife,Ativo,2025-02-09
+ATV00670,Equipamento_670,Notebook,Carlos,Recife,Inativo,2025-02-02
+ATV00671,Equipamento_671,Desktop,Lucas,Recife,Inativo,2024-12-11
+ATV00672,Equipamento_672,Servidor,Carlos,Rio de Janeiro,Ativo,2025-01-28
+ATV00673,Equipamento_673,Impressora,Lucas,São Paulo,Manutenção,2025-03-22
+ATV00674,Equipamento_674,Desktop,João,Curitiba,Inativo,2025-03-23
+ATV00675,Equipamento_675,Desktop,João,Curitiba,Ativo,2025-05-18
+ATV00676,Equipamento_676,Desktop,Carlos,Recife,Manutenção,2024-12-10
+ATV00677,Equipamento_677,Desktop,João,São Paulo,Manutenção,2025-04-02
+ATV00678,Equipamento_678,Impressora,Lucas,Curitiba,Ativo,2025-02-14
+ATV00679,Equipamento_679,Servidor,João,Recife,Ativo,2025-02-04
+ATV00680,Equipamento_680,Servidor,Carlos,Recife,Manutenção,2025-05-13
+ATV00681,Equipamento_681,Notebook,João,Recife,Inativo,2025-01-05
+ATV00682,Equipamento_682,Impressora,João,Curitiba,Ativo,2025-03-07
+ATV00683,Equipamento_683,Servidor,Carlos,Curitiba,Inativo,2024-12-01
+ATV00684,Equipamento_684,Notebook,Carlos,São Paulo,Inativo,2025-05-11
+ATV00685,Equipamento_685,Desktop,João,Rio de Janeiro,Ativo,2025-04-29
+ATV00686,Equipamento_686,Desktop,Carlos,São Paulo,Manutenção,2025-01-13
+ATV00687,Equipamento_687,Servidor,Marina,Recife,Manutenção,2024-12-23
+ATV00688,Equipamento_688,Impressora,João,São Paulo,Inativo,2025-01-18
+ATV00689,Equipamento_689,Servidor,João,Curitiba,Ativo,2025-03-25
+ATV00690,Equipamento_690,Desktop,João,Curitiba,Inativo,2025-04-10
+ATV00691,Equipamento_691,Desktop,Carlos,Recife,Inativo,2024-12-04
+ATV00692,Equipamento_692,Desktop,Lucas,Rio de Janeiro,Manutenção,2025-01-09
+ATV00693,Equipamento_693,Notebook,Marina,Rio de Janeiro,Inativo,2025-01-16
+ATV00694,Equipamento_694,Impressora,Fernanda,Curitiba,Inativo,2025-02-13
+ATV00695,Equipamento_695,Impressora,Marina,Rio de Janeiro,Manutenção,2025-03-20
+ATV00696,Equipamento_696,Notebook,Lucas,Recife,Ativo,2025-02-19
+ATV00697,Equipamento_697,Notebook,Carlos,Curitiba,Ativo,2024-12-28
+ATV00698,Equipamento_698,Servidor,Carlos,Recife,Manutenção,2025-04-16
+ATV00699,Equipamento_699,Notebook,Carlos,Recife,Manutenção,2024-12-29
+ATV00700,Equipamento_700,Servidor,Carlos,Curitiba,Ativo,2024-12-28
+ATV00701,Equipamento_701,Desktop,Lucas,Recife,Ativo,2025-03-23
+ATV00702,Equipamento_702,Desktop,Carlos,Rio de Janeiro,Ativo,2025-01-20
+ATV00703,Equipamento_703,Servidor,Marina,Curitiba,Ativo,2025-05-14
+ATV00704,Equipamento_704,Desktop,Carlos,Recife,Manutenção,2025-01-08
+ATV00705,Equipamento_705,Impressora,Marina,Rio de Janeiro,Inativo,2025-05-03
+ATV00706,Equipamento_706,Notebook,João,Rio de Janeiro,Manutenção,2025-02-04
+ATV00707,Equipamento_707,Desktop,João,Curitiba,Manutenção,2024-12-28
+ATV00708,Equipamento_708,Notebook,Marina,Recife,Inativo,2024-12-04
+ATV00709,Equipamento_709,Notebook,Carlos,São Paulo,Inativo,2024-12-27
+ATV00710,Equipamento_710,Notebook,Marina,Recife,Ativo,2025-03-04
+ATV00711,Equipamento_711,Desktop,Marina,Recife,Ativo,2025-01-08
+ATV00712,Equipamento_712,Desktop,Carlos,Rio de Janeiro,Manutenção,2025-03-28
+ATV00713,Equipamento_713,Impressora,Lucas,Curitiba,Inativo,2025-02-26
+ATV00714,Equipamento_714,Impressora,Marina,Recife,Inativo,2025-04-07
+ATV00715,Equipamento_715,Desktop,João,Curitiba,Inativo,2025-01-23
+ATV00716,Equipamento_716,Notebook,Carlos,Curitiba,Manutenção,2025-04-06
+ATV00717,Equipamento_717,Desktop,Lucas,São Paulo,Ativo,2025-03-15
+ATV00718,Equipamento_718,Servidor,Marina,Rio de Janeiro,Ativo,2024-12-09
+ATV00719,Equipamento_719,Impressora,Lucas,Curitiba,Inativo,2025-02-27
+ATV00720,Equipamento_720,Desktop,Fernanda,São Paulo,Manutenção,2025-01-10
+ATV00721,Equipamento_721,Notebook,Lucas,São Paulo,Manutenção,2025-04-30
+ATV00722,Equipamento_722,Notebook,João,Recife,Inativo,2024-12-24
+ATV00723,Equipamento_723,Servidor,Lucas,Recife,Inativo,2025-02-22
+ATV00724,Equipamento_724,Servidor,Lucas,Curitiba,Inativo,2025-01-30
+ATV00725,Equipamento_725,Desktop,Fernanda,Curitiba,Manutenção,2025-02-08
+ATV00726,Equipamento_726,Impressora,João,Recife,Inativo,2025-04-18
+ATV00727,Equipamento_727,Impressora,João,São Paulo,Inativo,2025-05-06
+ATV00728,Equipamento_728,Desktop,Marina,São Paulo,Ativo,2025-02-24
+ATV00729,Equipamento_729,Notebook,Carlos,Curitiba,Ativo,2025-01-20
+ATV00730,Equipamento_730,Servidor,Marina,Curitiba,Ativo,2025-05-08
+ATV00731,Equipamento_731,Impressora,Lucas,Recife,Ativo,2025-03-28
+ATV00732,Equipamento_732,Desktop,Marina,Rio de Janeiro,Inativo,2025-01-27
+ATV00733,Equipamento_733,Desktop,João,Recife,Manutenção,2024-12-04
+ATV00734,Equipamento_734,Desktop,Carlos,Curitiba,Manutenção,2025-01-09
+ATV00735,Equipamento_735,Servidor,Lucas,Rio de Janeiro,Inativo,2025-04-15
+ATV00736,Equipamento_736,Servidor,Marina,Curitiba,Inativo,2025-01-21
+ATV00737,Equipamento_737,Impressora,Carlos,Recife,Manutenção,2025-03-07
+ATV00738,Equipamento_738,Impressora,João,Recife,Ativo,2025-01-16
+ATV00739,Equipamento_739,Impressora,Lucas,Curitiba,Inativo,2025-01-09
+ATV00740,Equipamento_740,Desktop,Carlos,Rio de Janeiro,Manutenção,2025-05-11
+ATV00741,Equipamento_741,Servidor,Carlos,São Paulo,Ativo,2025-05-08
+ATV00742,Equipamento_742,Notebook,Carlos,São Paulo,Manutenção,2025-04-23
+ATV00743,Equipamento_743,Servidor,João,Recife,Inativo,2025-04-23
+ATV00744,Equipamento_744,Desktop,Fernanda,São Paulo,Manutenção,2025-01-12
+ATV00745,Equipamento_745,Servidor,João,São Paulo,Inativo,2025-04-08
+ATV00746,Equipamento_746,Desktop,João,Recife,Manutenção,2025-02-14
+ATV00747,Equipamento_747,Notebook,Marina,Curitiba,Inativo,2024-12-12
+ATV00748,Equipamento_748,Desktop,João,Curitiba,Ativo,2025-05-15
+ATV00749,Equipamento_749,Impressora,João,São Paulo,Inativo,2024-12-18
+ATV00750,Equipamento_750,Impressora,Fernanda,Recife,Ativo,2025-02-10
+ATV00751,Equipamento_751,Servidor,João,São Paulo,Manutenção,2025-01-29
+ATV00752,Equipamento_752,Servidor,Marina,São Paulo,Inativo,2025-02-06
+ATV00753,Equipamento_753,Servidor,Carlos,Rio de Janeiro,Inativo,2025-02-26
+ATV00754,Equipamento_754,Desktop,Carlos,Rio de Janeiro,Manutenção,2025-01-10
+ATV00755,Equipamento_755,Notebook,Fernanda,Recife,Ativo,2024-12-16
+ATV00756,Equipamento_756,Desktop,Marina,São Paulo,Inativo,2025-03-13
+ATV00757,Equipamento_757,Desktop,Fernanda,Curitiba,Ativo,2025-04-17
+ATV00758,Equipamento_758,Desktop,João,São Paulo,Inativo,2024-11-28
+ATV00759,Equipamento_759,Desktop,João,Rio de Janeiro,Manutenção,2025-03-29
+ATV00760,Equipamento_760,Servidor,Marina,Recife,Inativo,2024-12-31
+ATV00761,Equipamento_761,Desktop,Fernanda,São Paulo,Ativo,2025-02-21
+ATV00762,Equipamento_762,Notebook,João,São Paulo,Ativo,2025-04-23
+ATV00763,Equipamento_763,Servidor,Fernanda,Rio de Janeiro,Ativo,2025-02-11
+ATV00764,Equipamento_764,Desktop,João,Recife,Ativo,2024-12-21
+ATV00765,Equipamento_765,Notebook,Fernanda,Rio de Janeiro,Manutenção,2025-05-21
+ATV00766,Equipamento_766,Desktop,João,Recife,Ativo,2025-04-10
+ATV00767,Equipamento_767,Impressora,Carlos,Rio de Janeiro,Manutenção,2025-02-02
+ATV00768,Equipamento_768,Notebook,Marina,Recife,Inativo,2025-01-23
+ATV00769,Equipamento_769,Desktop,Lucas,Curitiba,Manutenção,2025-03-30
+ATV00770,Equipamento_770,Desktop,Carlos,Recife,Manutenção,2024-12-30
+ATV00771,Equipamento_771,Notebook,João,Curitiba,Inativo,2025-04-02
+ATV00772,Equipamento_772,Servidor,Fernanda,Curitiba,Ativo,2024-12-13
+ATV00773,Equipamento_773,Impressora,Fernanda,Rio de Janeiro,Manutenção,2025-01-24
+ATV00774,Equipamento_774,Impressora,Carlos,São Paulo,Manutenção,2025-05-09
+ATV00775,Equipamento_775,Desktop,Carlos,São Paulo,Ativo,2025-02-22
+ATV00776,Equipamento_776,Impressora,Marina,Rio de Janeiro,Manutenção,2025-02-03
+ATV00777,Equipamento_777,Servidor,Fernanda,Recife,Ativo,2024-11-25
+ATV00778,Equipamento_778,Desktop,Marina,São Paulo,Ativo,2024-12-08
+ATV00779,Equipamento_779,Servidor,João,Recife,Manutenção,2025-02-25
+ATV00780,Equipamento_780,Impressora,Carlos,Rio de Janeiro,Manutenção,2025-05-19
+ATV00781,Equipamento_781,Notebook,Marina,São Paulo,Ativo,2025-01-25
+ATV00782,Equipamento_782,Notebook,Lucas,Recife,Inativo,2025-02-22
+ATV00783,Equipamento_783,Impressora,Lucas,São Paulo,Inativo,2025-01-15
+ATV00784,Equipamento_784,Impressora,Fernanda,Recife,Inativo,2024-11-26
+ATV00785,Equipamento_785,Impressora,Marina,Curitiba,Manutenção,2025-02-21
+ATV00786,Equipamento_786,Servidor,João,São Paulo,Inativo,2025-03-07
+ATV00787,Equipamento_787,Impressora,Carlos,Curitiba,Manutenção,2024-12-21
+ATV00788,Equipamento_788,Desktop,Carlos,Rio de Janeiro,Ativo,2024-12-17
+ATV00789,Equipamento_789,Servidor,Marina,São Paulo,Manutenção,2025-03-25
+ATV00790,Equipamento_790,Impressora,Marina,Rio de Janeiro,Ativo,2025-05-10
+ATV00791,Equipamento_791,Servidor,Carlos,Rio de Janeiro,Inativo,2025-01-13
+ATV00792,Equipamento_792,Servidor,Fernanda,Curitiba,Ativo,2025-04-29
+ATV00793,Equipamento_793,Desktop,João,São Paulo,Manutenção,2025-04-08
+ATV00794,Equipamento_794,Desktop,João,Rio de Janeiro,Ativo,2024-12-30
+ATV00795,Equipamento_795,Notebook,Lucas,Curitiba,Manutenção,2025-04-24
+ATV00796,Equipamento_796,Servidor,Carlos,Curitiba,Manutenção,2025-05-10
+ATV00797,Equipamento_797,Desktop,Marina,São Paulo,Inativo,2025-02-05
+ATV00798,Equipamento_798,Impressora,Lucas,Recife,Manutenção,2024-12-08
+ATV00799,Equipamento_799,Impressora,Fernanda,Recife,Ativo,2025-05-16
+ATV00800,Equipamento_800,Impressora,Fernanda,São Paulo,Ativo,2024-11-28
+ATV00801,Equipamento_801,Desktop,Carlos,Curitiba,Inativo,2024-12-04
+ATV00802,Equipamento_802,Notebook,João,Rio de Janeiro,Ativo,2024-12-06
+ATV00803,Equipamento_803,Servidor,Lucas,Curitiba,Inativo,2025-01-03
+ATV00804,Equipamento_804,Impressora,Carlos,São Paulo,Inativo,2025-03-04
+ATV00805,Equipamento_805,Desktop,Fernanda,São Paulo,Manutenção,2025-01-11
+ATV00806,Equipamento_806,Impressora,Carlos,São Paulo,Manutenção,2025-02-06
+ATV00807,Equipamento_807,Notebook,Fernanda,São Paulo,Manutenção,2025-04-21
+ATV00808,Equipamento_808,Desktop,Marina,São Paulo,Inativo,2025-02-22
+ATV00809,Equipamento_809,Desktop,João,Recife,Ativo,2024-12-14
+ATV00810,Equipamento_810,Impressora,Lucas,Curitiba,Inativo,2025-01-03
+ATV00811,Equipamento_811,Impressora,Marina,Curitiba,Manutenção,2025-03-14
+ATV00812,Equipamento_812,Notebook,Marina,Rio de Janeiro,Manutenção,2025-05-18
+ATV00813,Equipamento_813,Impressora,Fernanda,São Paulo,Ativo,2025-01-14
+ATV00814,Equipamento_814,Impressora,Carlos,Curitiba,Inativo,2024-12-18
+ATV00815,Equipamento_815,Notebook,João,São Paulo,Inativo,2025-01-18
+ATV00816,Equipamento_816,Servidor,Fernanda,Rio de Janeiro,Inativo,2025-04-24
+ATV00817,Equipamento_817,Servidor,João,São Paulo,Ativo,2025-03-17
+ATV00818,Equipamento_818,Desktop,Fernanda,Rio de Janeiro,Manutenção,2025-04-19
+ATV00819,Equipamento_819,Notebook,Marina,São Paulo,Inativo,2024-12-31
+ATV00820,Equipamento_820,Servidor,Marina,Rio de Janeiro,Ativo,2025-01-10
+ATV00821,Equipamento_821,Notebook,Carlos,Rio de Janeiro,Ativo,2025-03-20
+ATV00822,Equipamento_822,Notebook,João,Rio de Janeiro,Inativo,2025-01-19
+ATV00823,Equipamento_823,Impressora,Marina,Curitiba,Manutenção,2024-11-24
+ATV00824,Equipamento_824,Desktop,Lucas,Recife,Inativo,2025-04-08
+ATV00825,Equipamento_825,Desktop,Carlos,Rio de Janeiro,Ativo,2024-12-05
+ATV00826,Equipamento_826,Servidor,Carlos,Rio de Janeiro,Manutenção,2025-05-18
+ATV00827,Equipamento_827,Desktop,Marina,Curitiba,Manutenção,2025-03-14
+ATV00828,Equipamento_828,Servidor,Marina,Rio de Janeiro,Ativo,2025-02-21
+ATV00829,Equipamento_829,Desktop,Carlos,Curitiba,Manutenção,2025-04-23
+ATV00830,Equipamento_830,Notebook,Carlos,Recife,Manutenção,2025-01-20
+ATV00831,Equipamento_831,Desktop,João,Curitiba,Ativo,2024-12-17
+ATV00832,Equipamento_832,Notebook,João,Rio de Janeiro,Inativo,2025-05-09
+ATV00833,Equipamento_833,Servidor,Carlos,Recife,Ativo,2024-12-01
+ATV00834,Equipamento_834,Servidor,Marina,São Paulo,Ativo,2025-03-05
+ATV00835,Equipamento_835,Desktop,Carlos,São Paulo,Ativo,2025-03-18
+ATV00836,Equipamento_836,Notebook,João,Curitiba,Manutenção,2024-12-03
+ATV00837,Equipamento_837,Impressora,João,Rio de Janeiro,Inativo,2024-12-18
+ATV00838,Equipamento_838,Desktop,Fernanda,São Paulo,Inativo,2025-04-04
+ATV00839,Equipamento_839,Impressora,Carlos,Curitiba,Manutenção,2025-05-22
+ATV00840,Equipamento_840,Servidor,Marina,São Paulo,Ativo,2025-01-14
+ATV00841,Equipamento_841,Desktop,Marina,São Paulo,Manutenção,2025-02-26
+ATV00842,Equipamento_842,Servidor,Fernanda,São Paulo,Manutenção,2024-12-28
+ATV00843,Equipamento_843,Notebook,Carlos,Recife,Inativo,2025-01-21
+ATV00844,Equipamento_844,Impressora,Fernanda,Recife,Manutenção,2024-12-17
+ATV00845,Equipamento_845,Desktop,Lucas,São Paulo,Inativo,2024-12-16
+ATV00846,Equipamento_846,Desktop,Fernanda,Rio de Janeiro,Manutenção,2025-01-10
+ATV00847,Equipamento_847,Desktop,João,Curitiba,Manutenção,2025-04-07
+ATV00848,Equipamento_848,Servidor,Carlos,Recife,Inativo,2025-03-10
+ATV00849,Equipamento_849,Desktop,Fernanda,Rio de Janeiro,Inativo,2024-12-13
+ATV00850,Equipamento_850,Impressora,João,Curitiba,Inativo,2024-12-22
+ATV00851,Equipamento_851,Desktop,Lucas,Curitiba,Inativo,2024-11-30
+ATV00852,Equipamento_852,Notebook,Fernanda,Recife,Manutenção,2025-02-25
+ATV00853,Equipamento_853,Servidor,Fernanda,Curitiba,Ativo,2025-05-01
+ATV00854,Equipamento_854,Desktop,Carlos,Rio de Janeiro,Manutenção,2024-12-13
+ATV00855,Equipamento_855,Notebook,Carlos,Rio de Janeiro,Inativo,2025-03-01
+ATV00856,Equipamento_856,Servidor,Fernanda,Rio de Janeiro,Ativo,2025-05-08
+ATV00857,Equipamento_857,Notebook,Marina,São Paulo,Ativo,2025-03-04
+ATV00858,Equipamento_858,Notebook,João,Rio de Janeiro,Manutenção,2025-01-16
+ATV00859,Equipamento_859,Servidor,Carlos,Curitiba,Manutenção,2025-02-05
+ATV00860,Equipamento_860,Servidor,Lucas,Recife,Ativo,2025-04-06
+ATV00861,Equipamento_861,Impressora,Lucas,São Paulo,Ativo,2025-01-17
+ATV00862,Equipamento_862,Desktop,João,Curitiba,Inativo,2025-04-14
+ATV00863,Equipamento_863,Impressora,Lucas,Recife,Manutenção,2024-12-13
+ATV00864,Equipamento_864,Notebook,Fernanda,Rio de Janeiro,Manutenção,2025-03-09
+ATV00865,Equipamento_865,Impressora,Lucas,Curitiba,Ativo,2024-11-27
+ATV00866,Equipamento_866,Impressora,Lucas,Curitiba,Manutenção,2025-01-12
+ATV00867,Equipamento_867,Servidor,Fernanda,Curitiba,Manutenção,2025-01-07
+ATV00868,Equipamento_868,Desktop,Fernanda,Curitiba,Ativo,2025-01-17
+ATV00869,Equipamento_869,Notebook,Marina,São Paulo,Inativo,2024-11-26
+ATV00870,Equipamento_870,Impressora,João,São Paulo,Inativo,2025-02-21
+ATV00871,Equipamento_871,Servidor,João,São Paulo,Inativo,2025-03-27
+ATV00872,Equipamento_872,Impressora,Lucas,Curitiba,Manutenção,2025-01-06
+ATV00873,Equipamento_873,Servidor,Carlos,Rio de Janeiro,Manutenção,2025-02-16
+ATV00874,Equipamento_874,Desktop,João,Rio de Janeiro,Inativo,2025-04-07
+ATV00875,Equipamento_875,Impressora,João,Recife,Inativo,2025-04-14
+ATV00876,Equipamento_876,Impressora,João,Recife,Ativo,2025-04-03
+ATV00877,Equipamento_877,Notebook,Fernanda,Recife,Manutenção,2025-05-01
+ATV00878,Equipamento_878,Desktop,Fernanda,São Paulo,Ativo,2024-11-30
+ATV00879,Equipamento_879,Desktop,Lucas,Rio de Janeiro,Inativo,2025-04-20
+ATV00880,Equipamento_880,Desktop,Marina,Curitiba,Manutenção,2025-04-09
+ATV00881,Equipamento_881,Desktop,Lucas,Recife,Ativo,2025-03-16
+ATV00882,Equipamento_882,Servidor,Lucas,Rio de Janeiro,Inativo,2025-05-10
+ATV00883,Equipamento_883,Servidor,Marina,Rio de Janeiro,Manutenção,2025-01-18
+ATV00884,Equipamento_884,Servidor,Lucas,Rio de Janeiro,Ativo,2025-02-18
+ATV00885,Equipamento_885,Desktop,João,São Paulo,Ativo,2025-03-24
+ATV00886,Equipamento_886,Impressora,João,Rio de Janeiro,Ativo,2025-02-13
+ATV00887,Equipamento_887,Servidor,Lucas,Curitiba,Inativo,2025-05-08
+ATV00888,Equipamento_888,Servidor,Lucas,Curitiba,Manutenção,2024-12-02
+ATV00889,Equipamento_889,Impressora,Fernanda,Recife,Ativo,2024-12-31
+ATV00890,Equipamento_890,Notebook,Lucas,Recife,Inativo,2024-12-16
+ATV00891,Equipamento_891,Impressora,Marina,Recife,Inativo,2025-01-01
+ATV00892,Equipamento_892,Notebook,Marina,Rio de Janeiro,Inativo,2025-02-18
+ATV00893,Equipamento_893,Desktop,Carlos,Curitiba,Manutenção,2025-02-17
+ATV00894,Equipamento_894,Impressora,Marina,São Paulo,Ativo,2025-01-13
+ATV00895,Equipamento_895,Notebook,João,Curitiba,Manutenção,2024-12-05
+ATV00896,Equipamento_896,Desktop,Carlos,São Paulo,Inativo,2025-03-14
+ATV00897,Equipamento_897,Impressora,Carlos,Recife,Ativo,2025-04-01
+ATV00898,Equipamento_898,Impressora,Marina,Curitiba,Ativo,2024-11-29
+ATV00899,Equipamento_899,Notebook,Fernanda,São Paulo,Manutenção,2025-03-23
+ATV00900,Equipamento_900,Servidor,Carlos,São Paulo,Manutenção,2024-12-05
+ATV00901,Equipamento_901,Desktop,Carlos,Recife,Ativo,2025-05-12
+ATV00902,Equipamento_902,Impressora,Fernanda,Rio de Janeiro,Inativo,2025-04-22
+ATV00903,Equipamento_903,Desktop,Carlos,Curitiba,Ativo,2024-12-24
+ATV00904,Equipamento_904,Servidor,Lucas,Rio de Janeiro,Inativo,2025-04-11
+ATV00905,Equipamento_905,Impressora,João,Rio de Janeiro,Ativo,2025-03-27
+ATV00906,Equipamento_906,Impressora,Lucas,Rio de Janeiro,Inativo,2025-04-10
+ATV00907,Equipamento_907,Notebook,João,Curitiba,Inativo,2024-12-12
+ATV00908,Equipamento_908,Desktop,João,Recife,Inativo,2025-05-11
+ATV00909,Equipamento_909,Notebook,Fernanda,Rio de Janeiro,Ativo,2025-02-01
+ATV00910,Equipamento_910,Desktop,Fernanda,São Paulo,Manutenção,2025-05-22
+ATV00911,Equipamento_911,Notebook,Fernanda,Recife,Ativo,2025-05-16
+ATV00912,Equipamento_912,Notebook,João,São Paulo,Inativo,2025-01-18
+ATV00913,Equipamento_913,Servidor,Carlos,São Paulo,Ativo,2025-01-21
+ATV00914,Equipamento_914,Notebook,Marina,Rio de Janeiro,Manutenção,2025-02-21
+ATV00915,Equipamento_915,Desktop,Lucas,Recife,Manutenção,2025-03-06
+ATV00916,Equipamento_916,Notebook,Marina,Recife,Inativo,2025-04-07
+ATV00917,Equipamento_917,Impressora,Lucas,São Paulo,Manutenção,2025-01-09
+ATV00918,Equipamento_918,Impressora,Fernanda,Recife,Inativo,2025-04-11
+ATV00919,Equipamento_919,Servidor,Lucas,Curitiba,Manutenção,2025-01-19
+ATV00920,Equipamento_920,Notebook,Carlos,Curitiba,Inativo,2025-04-18
+ATV00921,Equipamento_921,Servidor,Carlos,Recife,Manutenção,2025-05-18
+ATV00922,Equipamento_922,Desktop,Carlos,São Paulo,Manutenção,2025-02-09
+ATV00923,Equipamento_923,Servidor,Marina,Rio de Janeiro,Ativo,2025-04-11
+ATV00924,Equipamento_924,Desktop,Fernanda,Curitiba,Inativo,2025-02-14
+ATV00925,Equipamento_925,Desktop,João,Recife,Inativo,2025-04-06
+ATV00926,Equipamento_926,Servidor,Fernanda,Recife,Manutenção,2024-12-20
+ATV00927,Equipamento_927,Desktop,Carlos,Rio de Janeiro,Ativo,2025-05-08
+ATV00928,Equipamento_928,Servidor,Marina,Recife,Manutenção,2025-01-30
+ATV00929,Equipamento_929,Desktop,Marina,Recife,Manutenção,2025-01-29
+ATV00930,Equipamento_930,Desktop,Carlos,Rio de Janeiro,Manutenção,2025-03-20
+ATV00931,Equipamento_931,Impressora,Carlos,Recife,Inativo,2025-03-28
+ATV00932,Equipamento_932,Desktop,Lucas,Curitiba,Manutenção,2025-04-07
+ATV00933,Equipamento_933,Servidor,Marina,Recife,Manutenção,2025-04-05
+ATV00934,Equipamento_934,Impressora,Marina,São Paulo,Inativo,2025-05-01
+ATV00935,Equipamento_935,Servidor,Carlos,Recife,Ativo,2025-04-19
+ATV00936,Equipamento_936,Impressora,Lucas,Recife,Ativo,2025-01-03
+ATV00937,Equipamento_937,Servidor,Fernanda,Curitiba,Manutenção,2025-02-04
+ATV00938,Equipamento_938,Desktop,Marina,Rio de Janeiro,Inativo,2025-01-18
+ATV00939,Equipamento_939,Desktop,Marina,Recife,Manutenção,2025-04-14
+ATV00940,Equipamento_940,Desktop,Fernanda,Recife,Ativo,2024-11-30
+ATV00941,Equipamento_941,Impressora,Lucas,Curitiba,Manutenção,2025-02-04
+ATV00942,Equipamento_942,Impressora,Lucas,São Paulo,Ativo,2025-05-20
+ATV00943,Equipamento_943,Notebook,João,São Paulo,Ativo,2024-12-18
+ATV00944,Equipamento_944,Notebook,Carlos,Recife,Ativo,2025-03-03
+ATV00945,Equipamento_945,Impressora,Lucas,São Paulo,Inativo,2025-01-01
+ATV00946,Equipamento_946,Servidor,Fernanda,Rio de Janeiro,Inativo,2024-11-28
+ATV00947,Equipamento_947,Impressora,Lucas,Rio de Janeiro,Ativo,2024-12-24
+ATV00948,Equipamento_948,Impressora,Fernanda,Recife,Manutenção,2025-02-28
+ATV00949,Equipamento_949,Servidor,João,Recife,Inativo,2024-12-11
+ATV00950,Equipamento_950,Notebook,Carlos,Rio de Janeiro,Manutenção,2025-02-20
+ATV00951,Equipamento_951,Impressora,Marina,Recife,Inativo,2025-04-29
+ATV00952,Equipamento_952,Impressora,João,Recife,Ativo,2025-03-04
+ATV00953,Equipamento_953,Servidor,Marina,Rio de Janeiro,Manutenção,2025-04-25
+ATV00954,Equipamento_954,Impressora,Carlos,Curitiba,Ativo,2024-12-09
+ATV00955,Equipamento_955,Notebook,João,São Paulo,Manutenção,2025-04-02
+ATV00956,Equipamento_956,Notebook,João,Rio de Janeiro,Inativo,2025-04-29
+ATV00957,Equipamento_957,Servidor,Lucas,São Paulo,Inativo,2024-11-28
+ATV00958,Equipamento_958,Desktop,Carlos,Curitiba,Inativo,2024-12-15
+ATV00959,Equipamento_959,Impressora,Lucas,Recife,Ativo,2024-12-23
+ATV00960,Equipamento_960,Desktop,Carlos,Rio de Janeiro,Inativo,2024-11-26
+ATV00961,Equipamento_961,Notebook,Marina,Recife,Manutenção,2025-01-15
+ATV00962,Equipamento_962,Servidor,Lucas,São Paulo,Manutenção,2024-12-21
+ATV00963,Equipamento_963,Impressora,Carlos,Curitiba,Manutenção,2025-01-04
+ATV00964,Equipamento_964,Servidor,João,Rio de Janeiro,Inativo,2024-12-21
+ATV00965,Equipamento_965,Desktop,Fernanda,Rio de Janeiro,Inativo,2025-03-29
+ATV00966,Equipamento_966,Impressora,Carlos,Curitiba,Ativo,2025-02-11
+ATV00967,Equipamento_967,Desktop,Marina,Recife,Ativo,2024-12-26
+ATV00968,Equipamento_968,Desktop,Lucas,São Paulo,Inativo,2025-03-09
+ATV00969,Equipamento_969,Notebook,Lucas,Rio de Janeiro,Inativo,2025-03-25
+ATV00970,Equipamento_970,Desktop,Carlos,Curitiba,Manutenção,2025-02-23
+ATV00971,Equipamento_971,Notebook,Lucas,Curitiba,Ativo,2025-05-06
+ATV00972,Equipamento_972,Servidor,Fernanda,Rio de Janeiro,Manutenção,2024-12-05
+ATV00973,Equipamento_973,Desktop,João,Rio de Janeiro,Ativo,2025-04-28
+ATV00974,Equipamento_974,Notebook,Carlos,São Paulo,Ativo,2024-12-13
+ATV00975,Equipamento_975,Notebook,Lucas,Curitiba,Inativo,2024-12-14
+ATV00976,Equipamento_976,Desktop,Lucas,São Paulo,Inativo,2025-04-29
+ATV00977,Equipamento_977,Impressora,Fernanda,Rio de Janeiro,Ativo,2025-03-04
+ATV00978,Equipamento_978,Notebook,Carlos,Curitiba,Ativo,2025-04-16
+ATV00979,Equipamento_979,Servidor,Fernanda,São Paulo,Manutenção,2025-02-12
+ATV00980,Equipamento_980,Impressora,Fernanda,Recife,Ativo,2024-12-10
+ATV00981,Equipamento_981,Impressora,Marina,Curitiba,Ativo,2025-05-19
+ATV00982,Equipamento_982,Impressora,Marina,Recife,Manutenção,2024-12-22
+ATV00983,Equipamento_983,Impressora,Carlos,Curitiba,Ativo,2025-01-09
+ATV00984,Equipamento_984,Impressora,Carlos,Rio de Janeiro,Manutenção,2025-01-30
+ATV00985,Equipamento_985,Servidor,Carlos,São Paulo,Manutenção,2025-04-11
+ATV00986,Equipamento_986,Impressora,Lucas,Recife,Ativo,2025-04-14
+ATV00987,Equipamento_987,Desktop,Lucas,Recife,Manutenção,2024-12-16
+ATV00988,Equipamento_988,Desktop,Lucas,Curitiba,Inativo,2024-12-02
+ATV00989,Equipamento_989,Servidor,Marina,Curitiba,Inativo,2025-01-23
+ATV00990,Equipamento_990,Desktop,Lucas,São Paulo,Manutenção,2025-01-22
+ATV00991,Equipamento_991,Impressora,Lucas,Curitiba,Ativo,2025-05-04
+ATV00992,Equipamento_992,Servidor,Marina,São Paulo,Inativo,2025-01-18
+ATV00993,Equipamento_993,Desktop,Fernanda,Recife,Manutenção,2025-03-15
+ATV00994,Equipamento_994,Impressora,Carlos,Recife,Manutenção,2025-01-25
+ATV00995,Equipamento_995,Impressora,Lucas,São Paulo,Ativo,2024-12-07
+ATV00996,Equipamento_996,Desktop,Fernanda,Curitiba,Ativo,2025-02-10
+ATV00997,Equipamento_997,Impressora,Marina,São Paulo,Ativo,2024-12-14
+ATV00998,Equipamento_998,Notebook,Carlos,São Paulo,Ativo,2025-04-13
+ATV00999,Equipamento_999,Desktop,Fernanda,Rio de Janeiro,Manutenção,2025-05-06
+ATV01000,Equipamento_1000,Impressora,Marina,Recife,Manutenção,2025-05-10
