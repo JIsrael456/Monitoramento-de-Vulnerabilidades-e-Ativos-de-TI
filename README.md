@@ -41,7 +41,6 @@ Criar um pipeline de dados para:
 
 Criação das tabelas:
 ```sql
-```sql
 CREATE TABLE Ativos (...)
 CREATE TABLE Vulnerabilidades (...)
 CREATE TABLE Patches (...)
@@ -111,9 +110,6 @@ Score de risco por tipo de ativo.
 📦 Como usar
 Clone este repositório:
 
-bash
-Copiar
-Editar
 git clone https://github.com/seuusuario/nome-do-repositorio.git
 Importe os arquivos CSV no seu SGBD.
 
